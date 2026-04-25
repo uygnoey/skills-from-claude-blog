@@ -408,6 +408,16 @@
       "blog_slug": "2025.11.19_how-to-create-skills-key-steps-limitations-and-examples",
       "processed_at": "2026-04-25T19:04:38Z",
       "source_date": "2025-11-19"
+    },
+    "https://claude.com/blog/improved-web-search-with-dynamic-filtering": {
+      "blog_slug": "2026.02.17_improved-web-search-with-dynamic-filtering",
+      "processed_at": "2026-04-25T23:04:54Z",
+      "source_date": "2026-02-17"
+    },
+    "https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills": {
+      "blog_slug": "2026.03.03_improving-skill-creator-test-measure-and-refine-agent-skills",
+      "processed_at": "2026-04-25T23:04:54Z",
+      "source_date": "2026-03-03"
     }
   }
 }
