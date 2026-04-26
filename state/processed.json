@@ -438,6 +438,16 @@
       "blog_slug": "2025.06.23_introducing-citations-api",
       "processed_at": "2026-04-26T07:08:31Z",
       "source_date": "2025-06-23"
+    },
+    "https://claude.com/blog/introduction-to-agentic-coding": {
+      "blog_slug": "2025.10.30_introduction-to-agentic-coding",
+      "processed_at": "2026-04-26T11:13:10Z",
+      "source_date": "2025-10-30"
+    },
+    "https://claude.com/blog/key-benefits-transitioning-agentic-coding": {
+      "blog_slug": "2025.12.01_key-benefits-transitioning-agentic-coding",
+      "processed_at": "2026-04-26T11:13:10Z",
+      "source_date": "2025-12-01"
     }
   }
 }
