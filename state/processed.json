@@ -1,7 +1,7 @@
 {
   "description": "Map of processed blog URLs -> { blog_slug, processed_at, source_date }",
   "meta": {
-    "last_run_at": "2026-04-25"
+    "last_run_at": "2026-04-26"
   },
   "entries": {
     "https://claude.com/blog/using-claude-md-files": {
@@ -418,6 +418,16 @@
       "blog_slug": "2026.03.03_improving-skill-creator-test-measure-and-refine-agent-skills",
       "processed_at": "2026-04-25T23:04:54Z",
       "source_date": "2026-03-03"
+    },
+    "https://claude.com/blog/integrate-apis-seamlessly": {
+      "blog_slug": "2025.10.27_integrate-apis-seamlessly",
+      "processed_at": "2026-04-26T03:08:33Z",
+      "source_date": "2025-10-27"
+    },
+    "https://claude.com/blog/integrations": {
+      "blog_slug": "2025.05.01_integrations",
+      "processed_at": "2026-04-26T03:08:33Z",
+      "source_date": "2025-05-01"
     }
   }
 }
