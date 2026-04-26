@@ -448,6 +448,16 @@
       "blog_slug": "2025.12.01_key-benefits-transitioning-agentic-coding",
       "processed_at": "2026-04-26T11:13:10Z",
       "source_date": "2025-12-01"
+    },
+    "https://claude.com/blog/making-claude-a-better-electrical-engineer": {
+      "blog_slug": "2025.12.12_making-claude-a-better-electrical-engineer",
+      "processed_at": "2026-04-26T15:01:45Z",
+      "source_date": "2025-12-12"
+    },
+    "https://claude.com/blog/max-plan": {
+      "blog_slug": "2025.04.09_max-plan",
+      "processed_at": "2026-04-26T15:01:45Z",
+      "source_date": "2025-04-09"
     }
   }
 }
