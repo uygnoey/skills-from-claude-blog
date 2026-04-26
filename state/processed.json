@@ -458,6 +458,16 @@
       "blog_slug": "2025.04.09_max-plan",
       "processed_at": "2026-04-26T15:01:45Z",
       "source_date": "2025-04-09"
+    },
+    "https://claude.com/blog/memory": {
+      "blog_slug": "2025.09.11_memory",
+      "processed_at": "2026-04-26T19:03:09Z",
+      "source_date": "2025-09-11"
+    },
+    "https://claude.com/blog/message-batches-api": {
+      "blog_slug": "2024.10.08_message-batches-api",
+      "processed_at": "2026-04-26T19:03:09Z",
+      "source_date": "2024-10-08"
     }
   }
 }
