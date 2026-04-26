@@ -428,6 +428,16 @@
       "blog_slug": "2025.05.01_integrations",
       "processed_at": "2026-04-26T03:08:33Z",
       "source_date": "2025-05-01"
+    },
+    "https://claude.com/blog/interactive-tools-in-claude": {
+      "blog_slug": "2026.01.26_interactive-tools-in-claude",
+      "processed_at": "2026-04-26T07:08:31Z",
+      "source_date": "2026-01-26"
+    },
+    "https://claude.com/blog/introducing-citations-api": {
+      "blog_slug": "2025.06.23_introducing-citations-api",
+      "processed_at": "2026-04-26T07:08:31Z",
+      "source_date": "2025-06-23"
     }
   }
 }
