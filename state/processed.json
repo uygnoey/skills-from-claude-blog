@@ -468,6 +468,16 @@
       "blog_slug": "2024.10.08_message-batches-api",
       "processed_at": "2026-04-26T19:03:09Z",
       "source_date": "2024-10-08"
+    },
+    "https://claude.com/blog/optimize-code-performance-quickly": {
+      "blog_slug": "2025.10.06_optimize-code-performance-quickly",
+      "processed_at": "2026-04-26T23:03:01Z",
+      "source_date": "2025-10-06"
+    },
+    "https://claude.com/blog/organization-skills-and-directory": {
+      "blog_slug": "2025.12.18_organization-skills-and-directory",
+      "processed_at": "2026-04-26T23:03:01Z",
+      "source_date": "2025-12-18"
     }
   }
 }
