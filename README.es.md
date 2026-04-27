@@ -100,6 +100,7 @@ Cada artefacto puede copiarse tal cual a tu proyecto.
 | [How AI helps break the cost barrier to COBOL modernization](https://claude.com/blog/how-ai-helps-break-cost-barrier-cobol-modernization) | 2026-02-23 | 1 skill |
 | [Preview, review, and merge with Claude Code](https://claude.com/blog/preview-review-and-merge-with-claude-code) | 2026-02-20 | 1 skill |
 | [Increase web search accuracy and efficiency with dynamic filtering](https://claude.com/blog/improved-web-search-with-dynamic-filtering) | 2026-02-17 | 1 skill |
+| [Claude Enterprise, now available self-serve](https://claude.com/blog/self-serve-enterprise) | 2026-02-12 | 1 skill |
 | [Behind the model launch: What customers discovered testing Claude Opus 4.6 early](https://claude.com/blog/behind-model-launch-what-customers-discovered-testing-claude-opus-4-6-early) | 2026-02-09 | 1 skill |
 | [Customize Cowork with plugins - Claude.ai](https://claude.com/blog/cowork-plugins) | 2026-01-30 | 1 guide |
 | [Measure Claude Code's impact with contribution metrics](https://claude.com/blog/contribution-metrics) | 2026-01-29 | 1 skill |
@@ -132,6 +133,7 @@ Cada artefacto puede copiarse tal cual a tu proyecto.
 | [Fix software bugs faster with Claude](https://claude.com/blog/fix-software-bugs-faster-with-claude) | 2025-10-28 | 1 skill |
 | [How to integrate APIs seamlessly](https://claude.com/blog/integrate-apis-seamlessly) | 2025-10-27 | 1 skill + 1 guide |
 | [Claude Code on the web](https://claude.com/blog/claude-code-on-the-web) | 2025-10-20 | 1 skill |
+| [How to scale agentic coding across your engineering organization](https://claude.com/blog/scaling-agentic-coding) | 2025-10-15 | 1 skill |
 | [Build responsive web layouts](https://claude.com/blog/build-responsive-web-layouts) | 2025-10-10 | 1 skill |
 | [Customize Claude Code with plugins](https://claude.com/blog/claude-code-plugins) | 2025-10-09 | 1 skill + 1 guide + 1 plugin |
 | [Beyond permission prompts: making Claude Code more secure and autonomous](https://claude.com/blog/beyond-permission-prompts-making-claude-code-more-secure-and-autonomous) | 2025-10-08 | 1 skill |
@@ -156,9 +158,11 @@ Cada artefacto puede copiarse tal cual a tu proyecto.
 | [Remote MCP support in Claude Code](https://claude.com/blog/claude-code-remote-mcp) | 2025-06-18 | 1 skill + 1 guide |
 | [Mcp Connector](https://claude.com/blog/agent-capabilities-api) | 2025-05-22 | 1 skill |
 | [Claude can now connect to your world](https://claude.com/blog/integrations) | 2025-05-01 | 1 skill + 1 guide |
+| [Claude takes research to new places](https://claude.com/blog/research) | 2025-04-15 | 1 skill |
 | [Introducing the Max Plan](https://claude.com/blog/max-plan) | 2025-04-09 | 1 skill |
 | [Claude on Google Cloud’s Vertex AI: FedRAMP High and IL2 Authorized](https://claude.com/blog/claude-on-google-cloud-fedramp-high) | 2025-04-02 | 1 skill |
 | [Introducing the analysis tool in Claude.ai](https://claude.com/blog/analysis-tool) | 2024-10-24 | 1 skill |
+| [Improve your prompts in the developer console](https://claude.com/blog/prompt-improver) | 2024-10-14 | 1 skill |
 | [Introducing the Message Batches API](https://claude.com/blog/message-batches-api) | 2024-10-08 | 1 skill |
 | [Claude for Enterprise](https://claude.com/blog/claude-for-enterprise) | 2024-09-10 | 1 skill + 1 guide |
 | [Claude Android app](https://claude.com/blog/android-app) | 2024-07-16 | 1 skill |
