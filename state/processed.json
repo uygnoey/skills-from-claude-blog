@@ -1,7 +1,7 @@
 {
   "description": "Map of processed blog URLs -> { blog_slug, processed_at, source_date }",
   "meta": {
-    "last_run_at": "2026-04-26"
+    "last_run_at": "2026-04-27"
   },
   "entries": {
     "https://claude.com/blog/using-claude-md-files": {
@@ -478,6 +478,16 @@
       "blog_slug": "2025.12.18_organization-skills-and-directory",
       "processed_at": "2026-04-26T23:03:01Z",
       "source_date": "2025-12-18"
+    },
+    "https://claude.com/blog/preview-review-and-merge-with-claude-code": {
+      "blog_slug": "2026.02.20_preview-review-and-merge-with-claude-code",
+      "processed_at": "2026-04-27T03:03:27Z",
+      "source_date": "2026-02-20"
+    },
+    "https://claude.com/blog/product-management-on-the-ai-exponential": {
+      "blog_slug": "2026.03.19_product-management-on-the-ai-exponential",
+      "processed_at": "2026-04-27T03:03:27Z",
+      "source_date": "2026-03-19"
     }
   }
 }
