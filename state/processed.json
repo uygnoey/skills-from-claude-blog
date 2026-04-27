@@ -488,6 +488,16 @@
       "blog_slug": "2026.03.19_product-management-on-the-ai-exponential",
       "processed_at": "2026-04-27T03:03:27Z",
       "source_date": "2026-03-19"
+    },
+    "https://claude.com/blog/prompt-caching": {
+      "blog_slug": "2025.08.14_prompt-caching",
+      "processed_at": "2026-04-27T07:11:20Z",
+      "source_date": "2025-08-14"
+    },
+    "https://claude.com/blog/prompt-generator": {
+      "blog_slug": "2024.05.20_prompt-generator",
+      "processed_at": "2026-04-27T07:11:20Z",
+      "source_date": "2024-05-20"
     }
   }
 }
