@@ -518,6 +518,16 @@
       "blog_slug": "2026.02.12_self-serve-enterprise",
       "processed_at": "2026-04-27T15:13:19Z",
       "source_date": "2026-02-12"
+    },
+    "https://claude.com/blog/skills": {
+      "blog_slug": "2025.10.16_skills",
+      "processed_at": "2026-04-27T19:07:08Z",
+      "source_date": "2025-10-16"
+    },
+    "https://claude.com/blog/structured-outputs-on-the-claude-developer-platform": {
+      "blog_slug": "2025.11.14_structured-outputs-on-the-claude-developer-platform",
+      "processed_at": "2026-04-27T19:07:08Z",
+      "source_date": "2025-11-14"
     }
   }
 }
