@@ -498,6 +498,16 @@
       "blog_slug": "2024.05.20_prompt-generator",
       "processed_at": "2026-04-27T07:11:20Z",
       "source_date": "2024-05-20"
+    },
+    "https://claude.com/blog/prompt-improver": {
+      "blog_slug": "2024.10.14_prompt-improver",
+      "processed_at": "2026-04-27T11:05:39Z",
+      "source_date": "2024-10-14"
+    },
+    "https://claude.com/blog/research": {
+      "blog_slug": "2025.04.15_research",
+      "processed_at": "2026-04-27T11:05:39Z",
+      "source_date": "2025-04-15"
     }
   }
 }
