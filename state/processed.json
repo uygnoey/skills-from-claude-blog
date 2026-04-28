@@ -558,6 +558,16 @@
       "blog_slug": "2025.03.20_web-search",
       "processed_at": "2026-04-28T07:07:55Z",
       "source_date": "2025-03-20"
+    },
+    "https://claude.com/blog/web-search-api": {
+      "blog_slug": "2025.05.07_web-search-api",
+      "processed_at": "2026-04-28T11:02:12Z",
+      "source_date": "2025-05-07"
+    },
+    "https://claude.com/blog/what-is-model-context-protocol": {
+      "blog_slug": "2025.10.31_what-is-model-context-protocol",
+      "processed_at": "2026-04-28T11:02:12Z",
+      "source_date": "2025-10-31"
     }
   }
 }
