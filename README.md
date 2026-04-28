@@ -123,6 +123,7 @@ Each artifact can be copied into a project as-is.
 | [Using CLAUDE.MD files: Customizing Claude Code for your codebase](https://claude.com/blog/using-claude-md-files) | 2025-11-25 | 1 skill |
 | [How to create Skills for Claude: steps and examples](https://claude.com/blog/how-to-create-skills-key-steps-limitations-and-examples) | 2025-11-19 | 1 skill |
 | [How three YC startups built their companies with Claude Code](https://claude.com/blog/building-companies-with-claude-code) | 2025-11-17 | 1 skill + 1 guide |
+| [Structured outputs on the Claude Developer Platform](https://claude.com/blog/structured-outputs-on-the-claude-developer-platform) | 2025-11-14 | 1 skill |
 | [Improving frontend design through Skills](https://claude.com/blog/improving-frontend-design-through-skills) | 2025-11-12 | 1 skill + 1 guide |
 | [Best practices for prompt engineering](https://claude.com/blog/best-practices-for-prompt-engineering) | 2025-11-10 | 1 skill |
 | [Building AI agents for startups](https://claude.com/blog/building-ai-agents-for-startups) | 2025-11-03 | 1 skill |
@@ -133,6 +134,7 @@ Each artifact can be copied into a project as-is.
 | [Fix software bugs faster with Claude](https://claude.com/blog/fix-software-bugs-faster-with-claude) | 2025-10-28 | 1 skill |
 | [How to integrate APIs seamlessly](https://claude.com/blog/integrate-apis-seamlessly) | 2025-10-27 | 1 skill + 1 guide |
 | [Claude Code on the web](https://claude.com/blog/claude-code-on-the-web) | 2025-10-20 | 1 skill |
+| [Introducing Agent Skills](https://claude.com/blog/skills) | 2025-10-16 | 1 skill |
 | [How to scale agentic coding across your engineering organization](https://claude.com/blog/scaling-agentic-coding) | 2025-10-15 | 1 skill |
 | [Build responsive web layouts](https://claude.com/blog/build-responsive-web-layouts) | 2025-10-10 | 1 skill |
 | [Customize Claude Code with plugins](https://claude.com/blog/claude-code-plugins) | 2025-10-09 | 1 skill + 1 guide + 1 plugin |
@@ -161,6 +163,8 @@ Each artifact can be copied into a project as-is.
 | [Claude takes research to new places](https://claude.com/blog/research) | 2025-04-15 | 1 skill |
 | [Introducing the Max Plan](https://claude.com/blog/max-plan) | 2025-04-09 | 1 skill |
 | [Claude on Google Cloud’s Vertex AI: FedRAMP High and IL2 Authorized](https://claude.com/blog/claude-on-google-cloud-fedramp-high) | 2025-04-02 | 1 skill |
+| [Token-saving updates on the Anthropic API](https://claude.com/blog/token-saving-updates) | 2025-03-13 | (no artifacts) |
+| [Claude 3.5 Haiku on AWS Trainium2 and model distillation in Amazon Bedrock](https://claude.com/blog/trainium2-and-distillation) | 2024-12-03 | 1 skill |
 | [Introducing the analysis tool in Claude.ai](https://claude.com/blog/analysis-tool) | 2024-10-24 | 1 skill |
 | [Improve your prompts in the developer console](https://claude.com/blog/prompt-improver) | 2024-10-14 | 1 skill |
 | [Introducing the Message Batches API](https://claude.com/blog/message-batches-api) | 2024-10-08 | 1 skill |
@@ -168,7 +172,9 @@ Each artifact can be copied into a project as-is.
 | [Claude Android app](https://claude.com/blog/android-app) | 2024-07-16 | 1 skill |
 | [Fine-tune Claude 3 Haiku in Amazon Bedrock](https://claude.com/blog/fine-tune-claude-3-haiku) | 2024-07-10 | 1 skill |
 | [Evaluate prompts in the developer console](https://claude.com/blog/evaluate-prompts) | 2024-07-09 | 1 skill |
+| [Claude can now use tools](https://claude.com/blog/tool-use-ga) | 2024-05-30 | 1 skill |
 | [Generate better prompts in the developer Console](https://claude.com/blog/prompt-generator) | 2024-05-20 | 1 skill |
+| [Introducing the Claude Team plan and iOS app](https://claude.com/blog/team-plan-and-ios) | 2024-05-01 | (no artifacts) |
 | [Long context prompting for Claude 2.1](https://claude.com/blog/claude-2-1-prompting) | 2023-12-06 | 1 skill |
 | [Claude on Amazon Bedrock now available to every AWS customer](https://claude.com/blog/amazon-bedrock-general-availability) | 2023-09-28 | 1 skill |
 | [Claude 2 on Amazon Bedrock](https://claude.com/blog/claude-2-amazon-bedrock) | 2023-08-23 | 1 skill |
