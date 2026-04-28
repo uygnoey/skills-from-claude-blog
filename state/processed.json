@@ -568,6 +568,16 @@
       "blog_slug": "2025.10.31_what-is-model-context-protocol",
       "processed_at": "2026-04-28T11:02:12Z",
       "source_date": "2025-10-31"
+    },
+    "https://claude.com/blog/workspaces": {
+      "blog_slug": "2024.09.10_workspaces",
+      "processed_at": "2026-04-28T15:05:52Z",
+      "source_date": "2024-09-10"
+    },
+    "https://claude.com/blog/your-thinking-partner": {
+      "blog_slug": "2025.11.20_your-thinking-partner",
+      "processed_at": "2026-04-28T15:05:52Z",
+      "source_date": "2025-11-20"
     }
   }
 }
