@@ -578,6 +578,11 @@
       "blog_slug": "2025.11.20_your-thinking-partner",
       "processed_at": "2026-04-28T15:05:52Z",
       "source_date": "2025-11-20"
+    },
+    "https://claude.com/blog/onboarding-claude-code-like-a-new-developer-lessons-from-17-years-of-development": {
+      "blog_slug": "2026.04.28_onboarding-claude-code-like-a-new-developer-lessons-from-17-years-of-development",
+      "processed_at": "2026-04-28T19:02:14Z",
+      "source_date": "2026-04-28"
     }
   }
 }
