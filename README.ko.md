@@ -162,7 +162,9 @@ Claude 공식 블로그 글을 **글의 성격에 맞는 Claude Code 공식 규�
 | [Claude takes research to new places](https://claude.com/blog/research) | 2025-04-15 | 1 skill |
 | [Introducing the Max Plan](https://claude.com/blog/max-plan) | 2025-04-09 | 1 skill |
 | [Claude on Google Cloud’s Vertex AI: FedRAMP High and IL2 Authorized](https://claude.com/blog/claude-on-google-cloud-fedramp-high) | 2025-04-02 | 1 skill |
+| [Claude can now search the web](https://claude.com/blog/web-search) | 2025-03-20 | 1 skill |
 | [Token-saving updates on the Anthropic API](https://claude.com/blog/token-saving-updates) | 2025-03-13 | (no artifacts) |
+| [Get to production faster with the upgraded Anthropic Console](https://claude.com/blog/upgraded-anthropic-console) | 2025-03-06 | 1 skill |
 | [Claude 3.5 Haiku on AWS Trainium2 and model distillation in Amazon Bedrock](https://claude.com/blog/trainium2-and-distillation) | 2024-12-03 | 1 skill |
 | [Introducing the analysis tool in Claude.ai](https://claude.com/blog/analysis-tool) | 2024-10-24 | 1 skill |
 | [Improve your prompts in the developer console](https://claude.com/blog/prompt-improver) | 2024-10-14 | 1 skill |
