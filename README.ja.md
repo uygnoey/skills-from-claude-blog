@@ -68,6 +68,9 @@ Claude 公式ブログの記事を、**記事の性格に合わせた Claude Cod
 
 | ブログ記事 | 公開日 | 成果物 |
 |---|---|---|
+| [New guide: Deploying Claude across the enterprise with Claude Cowork](https://claude.com/blog/new-guide-deploying-claude-across-the-enterprise-with-claude-cowork) | 2026-04-29 | 1 skill |
+| [Claude API skill now in CodeRabbit, JetBrains, Resolve AI, and Warp](https://claude.com/blog/claude-api-skill) | 2026-04-29 | 1 skill |
+| [Onboarding Claude Code like a new developer: Lessons from 17 years of development](https://claude.com/blog/onboarding-claude-code-like-a-new-developer-lessons-from-17-years-of-development) | 2026-04-28 | 1 skill |
 | [New connectors in Claude for everyday life](https://claude.com/blog/connectors-for-everyday-life) | 2026-04-23 | 1 skill |
 | [Built-in memory for Claude Managed Agents](https://claude.com/blog/claude-managed-agents-memory) | 2026-04-23 | 1 skill + 1 guide |
 | [Building agents that reach production systems with MCP](https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp) | 2026-04-22 | 1 skill |
@@ -120,12 +123,14 @@ Claude 公式ブログの記事を、**記事の性格に合わせた Claude Cod
 | [Claude Code and Slack](https://claude.com/blog/claude-code-and-slack) | 2025-12-08 | 1 skill |
 | [What are the key benefits of transitioning to agentic coding for software development?](https://claude.com/blog/key-benefits-transitioning-agentic-coding) | 2025-12-01 | 1 skill + 1 guide |
 | [Using CLAUDE.MD files: Customizing Claude Code for your codebase](https://claude.com/blog/using-claude-md-files) | 2025-11-25 | 1 skill |
+| [What's new in Claude: Turning Claude into your thinking partner](https://claude.com/blog/your-thinking-partner) | 2025-11-20 | 1 skill |
 | [How to create Skills for Claude: steps and examples](https://claude.com/blog/how-to-create-skills-key-steps-limitations-and-examples) | 2025-11-19 | 1 skill |
 | [How three YC startups built their companies with Claude Code](https://claude.com/blog/building-companies-with-claude-code) | 2025-11-17 | 1 skill + 1 guide |
 | [Structured outputs on the Claude Developer Platform](https://claude.com/blog/structured-outputs-on-the-claude-developer-platform) | 2025-11-14 | 1 skill |
 | [Improving frontend design through Skills](https://claude.com/blog/improving-frontend-design-through-skills) | 2025-11-12 | 1 skill + 1 guide |
 | [Best practices for prompt engineering](https://claude.com/blog/best-practices-for-prompt-engineering) | 2025-11-10 | 1 skill |
 | [Building AI agents for startups](https://claude.com/blog/building-ai-agents-for-startups) | 2025-11-03 | 1 skill |
+| [What is Model Context Protocol? Connect AI to your world](https://claude.com/blog/what-is-model-context-protocol) | 2025-10-31 | 1 skill + 1 guide |
 | [Introduction to agentic coding](https://claude.com/blog/introduction-to-agentic-coding) | 2025-10-30 | 1 skill + 1 guide |
 | [How Brex improves code quality and productivity with Claude Code](https://claude.com/blog/how-brex-improves-code-quality-and-productivity-with-claude-code) | 2025-10-30 | 1 skill |
 | [Building AI agents in healthcare and life sciences](https://claude.com/blog/building-ai-agents-in-healthcare-and-life-sciences) | 2025-10-30 | 1 skill + 1 guide |
@@ -158,6 +163,7 @@ Claude 公式ブログの記事を、**記事の性格に合わせた Claude Cod
 | [Introducing Citations on the Anthropic API](https://claude.com/blog/introducing-citations-api) | 2025-06-23 | 1 skill + 1 guide |
 | [Remote MCP support in Claude Code](https://claude.com/blog/claude-code-remote-mcp) | 2025-06-18 | 1 skill + 1 guide |
 | [Mcp Connector](https://claude.com/blog/agent-capabilities-api) | 2025-05-22 | 1 skill |
+| [Introducing web search on the Anthropic API](https://claude.com/blog/web-search-api) | 2025-05-07 | 1 skill + 1 guide |
 | [Claude can now connect to your world](https://claude.com/blog/integrations) | 2025-05-01 | 1 skill + 1 guide |
 | [Claude takes research to new places](https://claude.com/blog/research) | 2025-04-15 | 1 skill |
 | [Introducing the Max Plan](https://claude.com/blog/max-plan) | 2025-04-09 | 1 skill |
@@ -169,6 +175,7 @@ Claude 公式ブログの記事を、**記事の性格に合わせた Claude Cod
 | [Introducing the analysis tool in Claude.ai](https://claude.com/blog/analysis-tool) | 2024-10-24 | 1 skill |
 | [Improve your prompts in the developer console](https://claude.com/blog/prompt-improver) | 2024-10-14 | 1 skill |
 | [Introducing the Message Batches API](https://claude.com/blog/message-batches-api) | 2024-10-08 | 1 skill |
+| [Workspaces in the Anthropic API Console](https://claude.com/blog/workspaces) | 2024-09-10 | 1 skill + 1 guide |
 | [Claude for Enterprise](https://claude.com/blog/claude-for-enterprise) | 2024-09-10 | 1 skill + 1 guide |
 | [Claude Android app](https://claude.com/blog/android-app) | 2024-07-16 | 1 skill |
 | [Fine-tune Claude 3 Haiku in Amazon Bedrock](https://claude.com/blog/fine-tune-claude-3-haiku) | 2024-07-10 | 1 skill |

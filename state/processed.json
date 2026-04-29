@@ -583,6 +583,16 @@
       "blog_slug": "2026.04.28_onboarding-claude-code-like-a-new-developer-lessons-from-17-years-of-development",
       "processed_at": "2026-04-28T19:02:14Z",
       "source_date": "2026-04-28"
+    },
+    "https://claude.com/blog/claude-api-skill": {
+      "blog_slug": "2026.04.29_claude-api-skill",
+      "processed_at": "2026-04-29T19:09:53Z",
+      "source_date": "2026-04-29"
+    },
+    "https://claude.com/blog/new-guide-deploying-claude-across-the-enterprise-with-claude-cowork": {
+      "blog_slug": "2026.04.29_new-guide-deploying-claude-across-the-enterprise-with-claude-cowork",
+      "processed_at": "2026-04-29T19:09:53Z",
+      "source_date": "2026-04-29"
     }
   }
 }
