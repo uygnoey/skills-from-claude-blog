@@ -593,6 +593,11 @@
       "blog_slug": "2026.04.29_new-guide-deploying-claude-across-the-enterprise-with-claude-cowork",
       "processed_at": "2026-04-29T19:09:53Z",
       "source_date": "2026-04-29"
+    },
+    "https://claude.com/blog/product-development-in-the-agentic-era": {
+      "blog_slug": "2026.04.29_product-development-in-the-agentic-era",
+      "processed_at": "2026-04-29T23:04:28Z",
+      "source_date": "2026-04-29"
     }
   }
 }
