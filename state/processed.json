@@ -608,6 +608,16 @@
       "blog_slug": "2026.04.30_lessons-from-building-claude-code-prompt-caching-is-everything",
       "processed_at": "2026-04-30T19:10:30Z",
       "source_date": "2026-04-30"
+    },
+    "https://claude.com/blog/building-ai-agents-for-the-enterprise": {
+      "blog_slug": "2026.04.30_building-ai-agents-for-the-enterprise",
+      "processed_at": "2026-04-30T23:06:29Z",
+      "source_date": "2026-04-30"
+    },
+    "https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude": {
+      "blog_slug": "2026.04.30_how-kepler-built-verifiable-ai-for-financial-services-with-claude",
+      "processed_at": "2026-04-30T23:06:29Z",
+      "source_date": "2026-04-30"
     }
   }
 }
