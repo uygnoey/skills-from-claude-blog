@@ -69,6 +69,9 @@ Each artifact can be copied into a project as-is.
 
 | Blog post | Published | Artifacts |
 |---|---|---|
+| [Lessons from building Claude Code: Prompt caching is everything](https://claude.com/blog/lessons-from-building-claude-code-prompt-caching-is-everything) | 2026-04-30 | 1 skill |
+| [Claude Security is now in public beta](https://claude.com/blog/claude-security-public-beta) | 2026-04-30 | 1 skill |
+| [Product development in the agentic era](https://claude.com/blog/product-development-in-the-agentic-era) | 2026-04-29 | 1 skill |
 | [New guide: Deploying Claude across the enterprise with Claude Cowork](https://claude.com/blog/new-guide-deploying-claude-across-the-enterprise-with-claude-cowork) | 2026-04-29 | 1 skill |
 | [Claude API skill now in CodeRabbit, JetBrains, Resolve AI, and Warp](https://claude.com/blog/claude-api-skill) | 2026-04-29 | 1 skill |
 | [Onboarding Claude Code like a new developer: Lessons from 17 years of development](https://claude.com/blog/onboarding-claude-code-like-a-new-developer-lessons-from-17-years-of-development) | 2026-04-28 | 1 skill |

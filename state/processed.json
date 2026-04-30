@@ -598,6 +598,16 @@
       "blog_slug": "2026.04.29_product-development-in-the-agentic-era",
       "processed_at": "2026-04-29T23:04:28Z",
       "source_date": "2026-04-29"
+    },
+    "https://claude.com/blog/claude-security-public-beta": {
+      "blog_slug": "2026.04.30_claude-security-public-beta",
+      "processed_at": "2026-04-30T19:10:30Z",
+      "source_date": "2026-04-30"
+    },
+    "https://claude.com/blog/lessons-from-building-claude-code-prompt-caching-is-everything": {
+      "blog_slug": "2026.04.30_lessons-from-building-claude-code-prompt-caching-is-everything",
+      "processed_at": "2026-04-30T19:10:30Z",
+      "source_date": "2026-04-30"
     }
   }
 }
