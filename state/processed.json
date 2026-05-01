@@ -618,6 +618,11 @@
       "blog_slug": "2026.04.30_how-kepler-built-verifiable-ai-for-financial-services-with-claude",
       "processed_at": "2026-04-30T23:06:29Z",
       "source_date": "2026-04-30"
+    },
+    "https://claude.com/blog/how-a-non-technical-project-manager-built-and-shipped-a-stress-management-app-with-claude-code-in-six-weeks": {
+      "blog_slug": "2026.05.01_how-a-non-technical-project-manager-built-and-shipped-a-stress-management-app-with-claude-code-in-six-weeks",
+      "processed_at": "2026-05-01T19:05:24Z",
+      "source_date": "2026-05-01"
     }
   }
 }
