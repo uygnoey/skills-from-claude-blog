@@ -68,8 +68,12 @@ Claude 公式ブログの記事を、**記事の性格に合わせた Claude Cod
 
 | ブログ記事 | 公開日 | 成果物 |
 |---|---|---|
+| [Deploying Claude across financial services](https://claude.com/blog/deploying-claude-across-financial-services) | 2026-05-05 | 1 skill |
+| [How a non-technical project manager built and shipped a stress management app with Claude Code in six weeks](https://claude.com/blog/how-a-non-technical-project-manager-built-and-shipped-a-stress-management-app-with-claude-code-in-six-weeks) | 2026-05-01 | 1 skill + 4 agent + 1 guide |
 | [Lessons from building Claude Code: Prompt caching is everything](https://claude.com/blog/lessons-from-building-claude-code-prompt-caching-is-everything) | 2026-04-30 | 1 skill |
+| [How Kepler built verifiable AI for financial services with Claude](https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude) | 2026-04-30 | 1 skill + 1 guide |
 | [Claude Security is now in public beta](https://claude.com/blog/claude-security-public-beta) | 2026-04-30 | 1 skill |
+| [Building AI agents for the enterprise](https://claude.com/blog/building-ai-agents-for-the-enterprise) | 2026-04-30 | 1 skill + 1 guide |
 | [Product development in the agentic era](https://claude.com/blog/product-development-in-the-agentic-era) | 2026-04-29 | 1 skill |
 | [New guide: Deploying Claude across the enterprise with Claude Cowork](https://claude.com/blog/new-guide-deploying-claude-across-the-enterprise-with-claude-cowork) | 2026-04-29 | 1 skill |
 | [Claude API skill now in CodeRabbit, JetBrains, Resolve AI, and Warp](https://claude.com/blog/claude-api-skill) | 2026-04-29 | 1 skill |
