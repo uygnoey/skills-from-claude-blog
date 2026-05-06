@@ -628,6 +628,11 @@
       "blog_slug": "2026.05.05_deploying-claude-across-financial-services",
       "processed_at": "2026-05-05T19:06:57Z",
       "source_date": "2026-05-05"
+    },
+    "https://claude.com/blog/new-in-claude-managed-agents": {
+      "blog_slug": "2026.05.06_new-in-claude-managed-agents",
+      "processed_at": "2026-05-06T19:03:19Z",
+      "source_date": "2026-05-06"
     }
   }
 }
