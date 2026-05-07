@@ -633,6 +633,11 @@
       "blog_slug": "2026.05.06_new-in-claude-managed-agents",
       "processed_at": "2026-05-06T19:03:19Z",
       "source_date": "2026-05-06"
+    },
+    "https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook": {
+      "blog_slug": "2026.05.07_collaborate-with-claude-across-excel-powerpoint-word-and-outlook",
+      "processed_at": "2026-05-07T19:02:34Z",
+      "source_date": "2026-05-07"
     }
   }
 }
