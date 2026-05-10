@@ -131,10 +131,13 @@ def build_pending(state: dict) -> list[tuple[str, str, str]]:
         pending.append((url, date, "UNKNOWN"))
 
     # TIER 3: sitemap-only leftovers (alphabetical).
+    # The sitemap endpoint is currently unstable (apex returns 404, www 301s
+    # to the broken apex). Silently skip when unavailable — the /blog index
+    # already covers the new-post stream, so a missing sitemap is not an
+    # error and must not look like one to the cron.
     try:
         sitemap_urls = fetch_sitemap_urls()
-    except Exception as e:  # noqa: BLE001
-        print(f"# warn: sitemap fetch failed: {e}", file=sys.stderr)
+    except Exception:  # noqa: BLE001
         sitemap_urls = []
     for url in sitemap_urls:
         if url in processed or url in index_urls:
