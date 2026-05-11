@@ -638,6 +638,11 @@
       "blog_slug": "2026.05.07_collaborate-with-claude-across-excel-powerpoint-word-and-outlook",
       "processed_at": "2026-05-07T19:02:34Z",
       "source_date": "2026-05-07"
+    },
+    "https://claude.com/blog/claude-platform-on-aws": {
+      "blog_slug": "2026.05.07_claude-platform-on-aws",
+      "processed_at": "2026-05-11T19:04:00Z",
+      "source_date": "2026-05-07"
     }
   }
 }
