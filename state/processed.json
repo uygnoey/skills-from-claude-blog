@@ -643,6 +643,11 @@
       "blog_slug": "2026.05.07_claude-platform-on-aws",
       "processed_at": "2026-05-11T19:04:00Z",
       "source_date": "2026-05-07"
+    },
+    "https://claude.com/blog/agent-view-in-claude-code": {
+      "blog_slug": "2026.05.11_agent-view-in-claude-code",
+      "processed_at": "2026-05-11T23:05:06Z",
+      "source_date": "2026-05-11"
     }
   }
 }
