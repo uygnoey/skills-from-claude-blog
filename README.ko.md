@@ -68,6 +68,11 @@ Claude 공식 블로그 글을 **글의 성격에 맞는 Claude Code 공식 규�
 
 | 블로그 글 | 게시일 | Artifacts |
 |---|---|---|
+| [Code w/ Claude SF 2026: Building on the AI exponential](https://claude.com/blog/code-w-claude-sf-2026-sf) | 2026-05-12 | 1 skill |
+| [How Anthropic's cybersecurity team built a threat detection platform with Claude Code](https://claude.com/blog/how-anthropic-uses-claude-cybersecurity) | 2026-05-11 | 1 skill |
+| [Agent view in Claude Code](https://claude.com/blog/agent-view-in-claude-code) | 2026-05-11 | 1 skill + 1 guide |
+| [Collaborate with Claude across Excel, PowerPoint, Word and Outlook](https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook) | 2026-05-07 | 1 skill + 1 guide |
+| [Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws) | 2026-05-07 | 1 skill + 1 guide |
 | [New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration](https://claude.com/blog/new-in-claude-managed-agents) | 2026-05-06 | 1 skill + 1 guide |
 | [Deploying Claude across financial services](https://claude.com/blog/deploying-claude-across-financial-services) | 2026-05-05 | 1 skill |
 | [How a non-technical project manager built and shipped a stress management app with Claude Code in six weeks](https://claude.com/blog/how-a-non-technical-project-manager-built-and-shipped-a-stress-management-app-with-claude-code-in-six-weeks) | 2026-05-01 | 1 skill + 4 agent + 1 guide |

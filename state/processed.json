@@ -648,6 +648,16 @@
       "blog_slug": "2026.05.11_agent-view-in-claude-code",
       "processed_at": "2026-05-11T23:05:06Z",
       "source_date": "2026-05-11"
+    },
+    "https://claude.com/blog/how-anthropic-uses-claude-cybersecurity": {
+      "blog_slug": "2026.05.11_how-anthropic-uses-claude-cybersecurity",
+      "processed_at": "2026-05-12T19:07:05Z",
+      "source_date": "2026-05-11"
+    },
+    "https://claude.com/blog/code-w-claude-sf-2026-sf": {
+      "blog_slug": "2026.05.12_code-w-claude-sf-2026-sf",
+      "processed_at": "2026-05-12T19:07:05Z",
+      "source_date": "2026-05-12"
     }
   }
 }
