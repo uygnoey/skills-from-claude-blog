@@ -1,0 +1,49 @@
+COMPACT_PROMPT = """Your task is to create a detailed summary of this conversation that
+will REPLACE the conversation history. The agent will continue working with only this
+summary and a few recent screenshots as context.
+
+CRITICAL: Preserve ALL user instructions verbatim. User instructions are the most
+critical element. If they are lost, the agent will deviate from the task.
+
+Before providing your summary, analyze the conversation in tags:
+1. Extract every user instruction, requirement, and constraint
+2. Identify if this is a repeatable workflow (e.g., processing N items)
+3. Chronologically trace what actions were taken and what happened
+
+Your summary MUST include these sections:
+
+1. USER INSTRUCTIONS:
+ - Complete initial task definition (verbatim when possible)
+ - ALL specific requirements and criteria
+ - Every "DO NOT", "ALWAYS", "MUST" instruction
+ - Any corrections or feedback that changed the approach
+
+2. TASK TEMPLATE (if this is a repeatable workflow):
+ - The pattern being repeated
+ - Decision criteria for each iteration
+ - Standard workflow steps
+ - Example of one completed iteration
+
+3. CONSTRAINTS AND RULES:
+ - All user-specified rules and restrictions
+ - Edge cases and exceptions discovered
+
+4. ACTIONS TAKEN:
+ - Pages visited and elements interacted with
+ - Forms filled and buttons clicked
+
+5. ERRORS AND FIXES:
+ - What went wrong and how it was resolved
+ - Approaches that failed (so they aren't retried)
+
+6. PROGRESS TRACKING:
+ - Items completed vs. remaining
+ - Current position in the workflow
+
+7. CURRENT STATE:
+ - Current application, URL and domain (optional)
+ - Important page state (logged in, form progress, etc.)
+
+8. NEXT STEP:
+ - Exactly what should be done next to continue
+"""

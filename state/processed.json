@@ -663,6 +663,11 @@
       "blog_slug": "2026.05.12_claude-for-the-legal-industry",
       "processed_at": "2026-05-12T23:03:06Z",
       "source_date": "2026-05-12"
+    },
+    "https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude": {
+      "blog_slug": "2026.05.13_best-practices-for-computer-and-browser-use-with-claude",
+      "processed_at": "2026-05-13T23:05:27Z",
+      "source_date": "2026-05-13"
     }
   }
 }
