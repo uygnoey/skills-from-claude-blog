@@ -668,6 +668,16 @@
       "blog_slug": "2026.05.13_best-practices-for-computer-and-browser-use-with-claude",
       "processed_at": "2026-05-13T23:05:27Z",
       "source_date": "2026-05-13"
+    },
+    "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start": {
+      "blog_slug": "2026.05.14_how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+      "processed_at": "2026-05-14T19:05:07Z",
+      "source_date": "2026-05-14"
+    },
+    "https://claude.com/blog/the-founders-playbook": {
+      "blog_slug": "2026.05.14_the-founders-playbook",
+      "processed_at": "2026-05-14T19:05:07Z",
+      "source_date": "2026-05-14"
     }
   }
 }
