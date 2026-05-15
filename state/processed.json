@@ -678,6 +678,11 @@
       "blog_slug": "2026.05.14_the-founders-playbook",
       "processed_at": "2026-05-14T19:05:07Z",
       "source_date": "2026-05-14"
+    },
+    "https://claude.com/blog/deploying-claude-across-the-legal-industry": {
+      "blog_slug": "2026.05.15_deploying-claude-across-the-legal-industry",
+      "processed_at": "2026-05-15T19:01:55Z",
+      "source_date": "2026-05-15"
     }
   }
 }
