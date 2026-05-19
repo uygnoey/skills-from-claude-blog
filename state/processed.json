@@ -688,6 +688,11 @@
       "blog_slug": "2026.05.19_claude-managed-agents-updates",
       "processed_at": "2026-05-19T11:12:20Z",
       "source_date": "2026-05-19"
+    },
+    "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html": {
+      "blog_slug": "2026.05.20_using-claude-code-the-unreasonable-effectiveness-of-html",
+      "processed_at": "2026-05-19T23:04:57Z",
+      "source_date": "2026-05-20"
     }
   }
 }
