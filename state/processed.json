@@ -683,6 +683,11 @@
       "blog_slug": "2026.05.15_deploying-claude-across-the-legal-industry",
       "processed_at": "2026-05-15T19:01:55Z",
       "source_date": "2026-05-15"
+    },
+    "https://claude.com/blog/claude-managed-agents-updates": {
+      "blog_slug": "2026.05.19_claude-managed-agents-updates",
+      "processed_at": "2026-05-19T11:12:20Z",
+      "source_date": "2026-05-19"
     }
   }
 }
