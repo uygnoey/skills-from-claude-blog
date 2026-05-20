@@ -693,6 +693,11 @@
       "blog_slug": "2026.05.20_using-claude-code-the-unreasonable-effectiveness-of-html",
       "processed_at": "2026-05-19T23:04:57Z",
       "source_date": "2026-05-20"
+    },
+    "https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book": {
+      "blog_slug": "2026.05.20_how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book",
+      "processed_at": "2026-05-20T19:02:24Z",
+      "source_date": "2026-05-20"
     }
   }
 }
