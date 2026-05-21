@@ -698,6 +698,16 @@
       "blog_slug": "2026.05.20_how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book",
       "processed_at": "2026-05-20T19:02:24Z",
       "source_date": "2026-05-20"
+    },
+    "https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity": {
+      "blog_slug": "2026.05.21_how-our-partners-are-putting-opus-to-work-for-cybersecurity",
+      "processed_at": "2026-05-21T19:08:32Z",
+      "source_date": "2026-05-21"
+    },
+    "https://claude.com/blog/compliance-api-security-partners": {
+      "blog_slug": "2026.05.21_compliance-api-security-partners",
+      "processed_at": "2026-05-21T19:08:32Z",
+      "source_date": "2026-05-21"
     }
   }
 }

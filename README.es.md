@@ -69,7 +69,17 @@ Cada artefacto puede copiarse tal cual a tu proyecto.
 
 | Post | Publicado | Artefactos |
 |---|---|---|
+| [How our partners are putting Opus to work for cybersecurity](https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity) | 2026-05-21 | 1 skill |
+| [Claude now works with more security and compliance tools](https://claude.com/blog/compliance-api-security-partners) | 2026-05-21 | 1 skill |
+| [Using Claude Code: The unreasonable effectiveness of HTML](https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html) | 2026-05-20 | 1 skill + 1 guide |
+| [How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book](https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book) | 2026-05-20 | 1 skill + 1 guide |
+| [New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels](https://claude.com/blog/claude-managed-agents-updates) | 2026-05-19 | 1 skill + 1 guide |
+| [Deploying Claude across the legal industry](https://claude.com/blog/deploying-claude-across-the-legal-industry) | 2026-05-15 | 1 skill + 1 guide |
+| [The founder's playbook: Building an AI-native startup](https://claude.com/blog/the-founders-playbook) | 2026-05-14 | 1 skill + 1 guide |
+| [How Claude Code works in large codebases: Best practices and where to start](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start) | 2026-05-14 | 1 skill + 1 guide |
+| [Best practices for computer and browser use with Claude](https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude) | 2026-05-13 | 1 skill + 1 guide |
 | [Code w/ Claude SF 2026: Building on the AI exponential](https://claude.com/blog/code-w-claude-sf-2026-sf) | 2026-05-12 | 1 skill |
+| [Claude for the legal industry](https://claude.com/blog/claude-for-the-legal-industry) | 2026-05-12 | 1 skill + 1 guide + 1 style + 1 plugin |
 | [How Anthropic's cybersecurity team built a threat detection platform with Claude Code](https://claude.com/blog/how-anthropic-uses-claude-cybersecurity) | 2026-05-11 | 1 skill |
 | [Agent view in Claude Code](https://claude.com/blog/agent-view-in-claude-code) | 2026-05-11 | 1 skill + 1 guide |
 | [Collaborate with Claude across Excel, PowerPoint, Word and Outlook](https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook) | 2026-05-07 | 1 skill + 1 guide |
