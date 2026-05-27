@@ -69,6 +69,8 @@ Each artifact can be copied into a project as-is.
 
 | Blog post | Published | Artifacts |
 |---|---|---|
+| [Code w/ Claude London 2026: Rethinking how we build](https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build) | 2026-05-26 | 1 skill + 1 guide |
+| [How Anthropic's finance team uses Claude to shape the narrative behind the numbers](https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers) | 2026-05-22 | 1 skill + 1 guide |
 | [How our partners are putting Opus to work for cybersecurity](https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity) | 2026-05-21 | 1 skill |
 | [Claude now works with more security and compliance tools](https://claude.com/blog/compliance-api-security-partners) | 2026-05-21 | 1 skill |
 | [Using Claude Code: The unreasonable effectiveness of HTML](https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html) | 2026-05-20 | 1 skill + 1 guide |

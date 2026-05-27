@@ -1,7 +1,7 @@
 {
   "description": "Map of processed blog URLs -> { blog_slug, processed_at, source_date }",
   "meta": {
-    "last_run_at": "2026-05-26"
+    "last_run_at": "2026-05-27"
   },
   "entries": {
     "https://claude.com/blog/using-claude-md-files": {
@@ -713,6 +713,11 @@
       "blog_slug": "2026.05.22_how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers",
       "processed_at": "2026-05-22T19:02:59Z",
       "source_date": "2026-05-22"
+    },
+    "https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build": {
+      "blog_slug": "2026.05.26_code-w-claude-london-2026-rethinking-how-we-build",
+      "processed_at": "2026-05-27T03:02:44Z",
+      "source_date": "2026-05-26"
     }
   }
 }
