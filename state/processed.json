@@ -718,6 +718,16 @@
       "blog_slug": "2026.05.26_code-w-claude-london-2026-rethinking-how-we-build",
       "processed_at": "2026-05-27T03:02:44Z",
       "source_date": "2026-05-26"
+    },
+    "https://claude.com/blog/zero-trust-for-ai-agents": {
+      "blog_slug": "2026.05.27_zero-trust-for-ai-agents",
+      "processed_at": "2026-05-27T23:04:30Z",
+      "source_date": "2026-05-27"
+    },
+    "https://claude.com/blog/using-llms-to-secure-source-code": {
+      "blog_slug": "2026.05.27_using-llms-to-secure-source-code",
+      "processed_at": "2026-05-27T23:04:30Z",
+      "source_date": "2026-05-27"
     }
   }
 }
