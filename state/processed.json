@@ -733,6 +733,11 @@
       "blog_slug": "2026.05.27_how-coderabbit-used-claude-to-build-an-agent-orchestration-system",
       "processed_at": "2026-05-28T03:02:59Z",
       "source_date": "2026-05-27"
+    },
+    "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code": {
+      "blog_slug": "2026.05.28_introducing-dynamic-workflows-in-claude-code",
+      "processed_at": "2026-05-28T19:01:30Z",
+      "source_date": "2026-05-28"
     }
   }
 }
