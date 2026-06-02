@@ -743,6 +743,11 @@
       "blog_slug": "2026.06.03_running-an-ai-native-engineering-org",
       "processed_at": "2026-06-02T19:01:46Z",
       "source_date": "2026-06-03"
+    },
+    "https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code": {
+      "blog_slug": "2026.06.02_a-harness-for-every-task-dynamic-workflows-in-claude-code",
+      "processed_at": "2026-06-02T23:03:46Z",
+      "source_date": "2026-06-02"
     }
   }
 }
