@@ -758,6 +758,11 @@
       "blog_slug": "2026.06.03_lessons-from-building-claude-code-how-we-use-skills",
       "processed_at": "2026-06-03T19:06:20Z",
       "source_date": "2026-06-03"
+    },
+    "https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork": {
+      "blog_slug": "2026.06.03_best-practices-for-getting-started-with-claude-cowork",
+      "processed_at": "2026-06-03T23:06:33Z",
+      "source_date": "2026-06-03"
     }
   }
 }
