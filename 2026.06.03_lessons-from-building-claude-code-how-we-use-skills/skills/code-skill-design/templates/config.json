@@ -1,0 +1,10 @@
+{
+  "notes": "Populate this file with environment-specific setup for the skill (API endpoints, repo conventions, paths, IDs). If missing, the agent should ask the user for required values before proceeding.",
+  "example": {
+    "workspace_root": "/path/to/repo",
+    "primary_tooling": {
+      "cli": "<command>",
+      "docs_url": "<url>"
+    }
+  }
+}

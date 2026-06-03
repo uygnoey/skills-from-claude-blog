@@ -748,6 +748,16 @@
       "blog_slug": "2026.06.02_a-harness-for-every-task-dynamic-workflows-in-claude-code",
       "processed_at": "2026-06-02T23:03:46Z",
       "source_date": "2026-06-02"
+    },
+    "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude": {
+      "blog_slug": "2026.06.03_how-anthropic-enables-self-service-data-analytics-with-claude",
+      "processed_at": "2026-06-03T19:06:20Z",
+      "source_date": "2026-06-03"
+    },
+    "https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills": {
+      "blog_slug": "2026.06.03_lessons-from-building-claude-code-how-we-use-skills",
+      "processed_at": "2026-06-03T19:06:20Z",
+      "source_date": "2026-06-03"
     }
   }
 }
