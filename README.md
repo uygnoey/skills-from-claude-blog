@@ -69,6 +69,13 @@ Each artifact can be copied into a project as-is.
 
 | Blog post | Published | Artifacts |
 |---|---|---|
+| [Running an AI-native engineering org](https://claude.com/blog/running-an-ai-native-engineering-org) | 2026-06-03 | 1 skill |
+| [Lessons from building Claude Code: How we use skills](https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills) | 2026-06-03 | 1 skill |
+| [How Anthropic enables self-service data analytics with Claude](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude) | 2026-06-03 | 1 skill |
+| [Best practices for getting started with Claude Cowork](https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork) | 2026-06-03 | 1 skill + 1 guide |
+| [A harness for every task: dynamic workflows in Claude Code](https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code) | 2026-06-02 | 1 skill + 1 guide |
+| [Introducing dynamic workflows in Claude Code](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code) | 2026-05-28 | 1 skill + 1 guide |
+| [How CodeRabbit Used Claude to Build an Agent Orchestration System](https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system) | 2026-05-27 | 1 skill |
 | [Code w/ Claude London 2026: Rethinking how we build](https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build) | 2026-05-26 | 1 skill + 1 guide |
 | [How Anthropic's finance team uses Claude to shape the narrative behind the numbers](https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers) | 2026-05-22 | 1 skill + 1 guide |
 | [How our partners are putting Opus to work for cybersecurity](https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity) | 2026-05-21 | 1 skill |
