@@ -763,6 +763,11 @@
       "blog_slug": "2026.06.03_best-practices-for-getting-started-with-claude-cowork",
       "processed_at": "2026-06-03T23:06:33Z",
       "source_date": "2026-06-03"
+    },
+    "https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering": {
+      "blog_slug": "2026.06.05_how-anthropic-uses-claude-gtm-engineering",
+      "processed_at": "2026-06-05T19:04:06Z",
+      "source_date": "2026-06-05"
     }
   }
 }
