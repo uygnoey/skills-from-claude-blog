@@ -768,6 +768,11 @@
       "blog_slug": "2026.06.05_how-anthropic-uses-claude-gtm-engineering",
       "processed_at": "2026-06-05T19:04:06Z",
       "source_date": "2026-06-05"
+    },
+    "https://claude.com/blog/the-claude-cowork-product-guide": {
+      "blog_slug": "2026.06.05_the-claude-cowork-product-guide",
+      "processed_at": "2026-06-05T23:02:57Z",
+      "source_date": "2026-06-05"
     }
   }
 }
