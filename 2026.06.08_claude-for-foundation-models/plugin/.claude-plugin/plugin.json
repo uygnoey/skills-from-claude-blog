@@ -1,0 +1,5 @@
+{
+  "name": "foundation-models-handoff",
+  "description": "Reusable skill bundle based on the Claude blog post about integrating Apple Foundation Models with Claude for a two-stage on-device → Claude workflow.",
+  "version": "0.1.0"
+}

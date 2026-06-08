@@ -778,6 +778,11 @@
       "blog_slug": "2026.06.08_observability-for-developers-building-connectors",
       "processed_at": "2026-06-08T19:02:20Z",
       "source_date": "2026-06-08"
+    },
+    "https://claude.com/blog/claude-for-foundation-models": {
+      "blog_slug": "2026.06.08_claude-for-foundation-models",
+      "processed_at": "2026-06-08T23:05:51Z",
+      "source_date": "2026-06-08"
     }
   }
 }
