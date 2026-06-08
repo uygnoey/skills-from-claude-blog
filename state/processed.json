@@ -773,6 +773,11 @@
       "blog_slug": "2026.06.05_the-claude-cowork-product-guide",
       "processed_at": "2026-06-05T23:02:57Z",
       "source_date": "2026-06-05"
+    },
+    "https://claude.com/blog/observability-for-developers-building-connectors": {
+      "blog_slug": "2026.06.08_observability-for-developers-building-connectors",
+      "processed_at": "2026-06-08T19:02:20Z",
+      "source_date": "2026-06-08"
     }
   }
 }
