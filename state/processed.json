@@ -783,6 +783,11 @@
       "blog_slug": "2026.06.08_claude-for-foundation-models",
       "processed_at": "2026-06-08T23:05:51Z",
       "source_date": "2026-06-08"
+    },
+    "https://claude.com/blog/whats-new-in-claude-managed-agents": {
+      "blog_slug": "2026.06.09_whats-new-in-claude-managed-agents",
+      "processed_at": "2026-06-09T23:05:28Z",
+      "source_date": "2026-06-09"
     }
   }
 }
