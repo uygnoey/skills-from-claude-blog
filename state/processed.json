@@ -788,6 +788,11 @@
       "blog_slug": "2026.06.09_whats-new-in-claude-managed-agents",
       "processed_at": "2026-06-09T23:05:28Z",
       "source_date": "2026-06-09"
+    },
+    "https://claude.com/blog/building-with-claude-managed-agents": {
+      "blog_slug": "2026.06.10_building-with-claude-managed-agents",
+      "processed_at": "2026-06-10T19:04:23Z",
+      "source_date": "2026-06-10"
     }
   }
 }
