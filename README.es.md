@@ -69,6 +69,12 @@ Cada artefacto puede copiarse tal cual a tu proyecto.
 
 | Post | Publicado | Artefactos |
 |---|---|---|
+| [The evolution of agentic surfaces: building with Claude Managed Agents](https://claude.com/blog/building-with-claude-managed-agents) | 2026-06-10 | 1 skill + 1 guide |
+| [New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults](https://claude.com/blog/whats-new-in-claude-managed-agents) | 2026-06-09 | 1 skill |
+| [Observability for developers building connectors](https://claude.com/blog/observability-for-developers-building-connectors) | 2026-06-08 | 1 skill + 1 guide |
+| [Building intelligent apps for Apple platforms with Claude in the Foundation Models framework](https://claude.com/blog/claude-for-foundation-models) | 2026-06-08 | 1 skill + 1 guide + 1 plugin |
+| [The Claude Cowork product guide](https://claude.com/blog/the-claude-cowork-product-guide) | 2026-06-05 | 1 skill + 1 guide |
+| [How one Anthropic seller rebuilt his team's workflows with Claude Code](https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering) | 2026-06-05 | 1 skill + 1 guide + 1 style |
 | [Running an AI-native engineering org](https://claude.com/blog/running-an-ai-native-engineering-org) | 2026-06-03 | 1 skill |
 | [Lessons from building Claude Code: How we use skills](https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills) | 2026-06-03 | 1 skill |
 | [How Anthropic enables self-service data analytics with Claude](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude) | 2026-06-03 | 1 skill |
