@@ -1,7 +1,7 @@
 {
   "description": "Map of processed blog URLs -> { blog_slug, processed_at, source_date }",
   "meta": {
-    "last_run_at": "2026-06-10"
+    "last_run_at": "2026-06-11"
   },
   "entries": {
     "https://claude.com/blog/using-claude-md-files": {
@@ -803,6 +803,16 @@
       "blog_slug": "2024.08.27_artifacts",
       "processed_at": "2026-06-10T23:04:19Z",
       "source_date": "2024-08-27"
+    },
+    "https://claude.com/blog/code-review": {
+      "blog_slug": "2026.03.09_code-review",
+      "processed_at": "2026-06-11T03:04:00Z",
+      "source_date": "2026-03-09"
+    },
+    "https://claude.com/blog/opus-4-6-finance": {
+      "blog_slug": "2026.02.05_opus-4-6-finance",
+      "processed_at": "2026-06-11T03:04:00Z",
+      "source_date": "2026-02-05"
     }
   }
 }
