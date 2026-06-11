@@ -813,6 +813,16 @@
       "blog_slug": "2026.02.05_opus-4-6-finance",
       "processed_at": "2026-06-11T03:04:00Z",
       "source_date": "2026-02-05"
+    },
+    "https://claude.com/blog/productivity-platforms": {
+      "blog_slug": "2025.10.16_productivity-platforms",
+      "processed_at": "2026-06-11T07:07:31Z",
+      "source_date": "2025-10-16"
+    },
+    "https://claude.com/blog/skills-explained": {
+      "blog_slug": "2025.11.13_skills-explained",
+      "processed_at": "2026-06-11T07:07:31Z",
+      "source_date": "2025-11-13"
     }
   }
 }
