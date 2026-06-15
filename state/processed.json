@@ -823,6 +823,11 @@
       "blog_slug": "2025.11.13_skills-explained",
       "processed_at": "2026-06-11T07:07:31Z",
       "source_date": "2025-11-13"
+    },
+    "https://claude.com/blog/meet-the-winners-of-built-with-opus-4-7-claude-code-hackathon": {
+      "blog_slug": "2026.06.15_meet-the-winners-of-built-with-opus-4-7-claude-code-hackathon",
+      "processed_at": "2026-06-15T23:03:52Z",
+      "source_date": "2026-06-15"
     }
   }
 }
