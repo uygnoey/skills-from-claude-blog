@@ -828,6 +828,16 @@
       "blog_slug": "2026.06.15_meet-the-winners-of-built-with-opus-4-7-claude-code-hackathon",
       "processed_at": "2026-06-15T23:03:52Z",
       "source_date": "2026-06-15"
+    },
+    "https://claude.com/blog/meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon": {
+      "blog_slug": "2026.06.17_meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon",
+      "processed_at": "2026-06-17T23:05:02Z",
+      "source_date": "2026-06-17"
+    },
+    "https://claude.com/blog/claude-design-stays-on-brand-for-daily-work": {
+      "blog_slug": "2026.06.17_claude-design-stays-on-brand-for-daily-work",
+      "processed_at": "2026-06-17T23:05:02Z",
+      "source_date": "2026-06-17"
     }
   }
 }

@@ -69,6 +69,9 @@ Each artifact can be copied into a project as-is.
 
 | Blog post | Published | Artifacts |
 |---|---|---|
+| [Meet the winners of our Claude Opus 4.8 Build Day hackathon](https://claude.com/blog/meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon) | 2026-06-17 | 1 skill + 1 guide |
+| [Claude Design now stays on brand for daily work](https://claude.com/blog/claude-design-stays-on-brand-for-daily-work) | 2026-06-17 | 1 skill + 1 guide |
+| [Meet the winners of Built with Opus 4.7 Claude Code hackathon](https://claude.com/blog/meet-the-winners-of-built-with-opus-4-7-claude-code-hackathon) | 2026-06-15 | 1 skill + 1 guide |
 | [The evolution of agentic surfaces: building with Claude Managed Agents](https://claude.com/blog/building-with-claude-managed-agents) | 2026-06-10 | 1 skill + 1 guide |
 | [New in Claude Managed Agents: run agents on a schedule and store environment variables in vaults](https://claude.com/blog/whats-new-in-claude-managed-agents) | 2026-06-09 | 1 skill |
 | [Observability for developers building connectors](https://claude.com/blog/observability-for-developers-building-connectors) | 2026-06-08 | 1 skill + 1 guide |
@@ -132,8 +135,10 @@ Each artifact can be copied into a project as-is.
 | [Put Claude to work on your computer](https://claude.com/blog/dispatch-and-computer-use) | 2026-03-23 | 1 skill |
 | [Product management on the AI exponential](https://claude.com/blog/product-management-on-the-ai-exponential) | 2026-03-19 | 1 skill |
 | [Code with Claude comes to San Francisco, London, and Tokyo](https://claude.com/blog/code-with-claude-san-francisco-london-tokyo) | 2026-03-18 | 1 skill + 1 guide |
+| [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga) | 2026-03-13 | 1 skill |
 | [Claude builds interactive visuals right in your conversation](https://claude.com/blog/claude-builds-visuals) | 2026-03-12 | 1 skill |
 | [Advancing Claude for Excel and PowerPoint](https://claude.com/blog/claude-excel-powerpoint-updates) | 2026-03-11 | 1 skill + 1 guide |
+| [Bringing Code Review to Claude Code](https://claude.com/blog/code-review) | 2026-03-09 | 1 skill |
 | [Common workflow patterns for AI agents](https://claude.com/blog/common-workflow-patterns-for-ai-agents-and-when-to-use-them) | 2026-03-05 | 1 skill + 1 guide |
 | [Improving skill-creator: Test, measure, and refine Agent Skills](https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills) | 2026-03-03 | 1 skill |
 | [Cowork and plugins for finance](https://claude.com/blog/cowork-plugins-finance) | 2026-02-24 | 1 guide |
@@ -143,6 +148,7 @@ Each artifact can be copied into a project as-is.
 | [Increase web search accuracy and efficiency with dynamic filtering](https://claude.com/blog/improved-web-search-with-dynamic-filtering) | 2026-02-17 | 1 skill |
 | [Claude Enterprise, now available self-serve](https://claude.com/blog/self-serve-enterprise) | 2026-02-12 | 1 skill |
 | [Behind the model launch: What customers discovered testing Claude Opus 4.6 early](https://claude.com/blog/behind-model-launch-what-customers-discovered-testing-claude-opus-4-6-early) | 2026-02-09 | 1 skill |
+| [Advancing finance with Claude Opus 4.6](https://claude.com/blog/opus-4-6-finance) | 2026-02-05 | 1 skill + 1 guide |
 | [Customize Cowork with plugins - Claude.ai](https://claude.com/blog/cowork-plugins) | 2026-01-30 | 1 guide |
 | [Measure Claude Code's impact with contribution metrics](https://claude.com/blog/contribution-metrics) | 2026-01-29 | 1 skill |
 | [A complete guide to building skills for Claude](https://claude.com/blog/complete-guide-to-building-skills-for-claude) | 2026-01-29 | 1 skill + 1 guide |
@@ -166,6 +172,7 @@ Each artifact can be copied into a project as-is.
 | [How to create Skills for Claude: steps and examples](https://claude.com/blog/how-to-create-skills-key-steps-limitations-and-examples) | 2025-11-19 | 1 skill |
 | [How three YC startups built their companies with Claude Code](https://claude.com/blog/building-companies-with-claude-code) | 2025-11-17 | 1 skill + 1 guide |
 | [Structured outputs on the Claude Developer Platform](https://claude.com/blog/structured-outputs-on-the-claude-developer-platform) | 2025-11-14 | 1 skill |
+| [How Skills compares to prompts, Projects, MCP, and subagents](https://claude.com/blog/skills-explained) | 2025-11-13 | 1 skill + 3 agent + 4 guide |
 | [Improving frontend design through Skills](https://claude.com/blog/improving-frontend-design-through-skills) | 2025-11-12 | 1 skill + 1 guide |
 | [Best practices for prompt engineering](https://claude.com/blog/best-practices-for-prompt-engineering) | 2025-11-10 | 1 skill |
 | [Building AI agents for startups](https://claude.com/blog/building-ai-agents-for-startups) | 2025-11-03 | 1 skill |
@@ -178,6 +185,7 @@ Each artifact can be copied into a project as-is.
 | [How to integrate APIs seamlessly](https://claude.com/blog/integrate-apis-seamlessly) | 2025-10-27 | 1 skill + 1 guide |
 | [Claude Code on the web](https://claude.com/blog/claude-code-on-the-web) | 2025-10-20 | 1 skill |
 | [Introducing Agent Skills](https://claude.com/blog/skills) | 2025-10-16 | 1 skill |
+| [Claude and your productivity platforms](https://claude.com/blog/productivity-platforms) | 2025-10-16 | 1 skill + 1 guide |
 | [How to scale agentic coding across your engineering organization](https://claude.com/blog/scaling-agentic-coding) | 2025-10-15 | 1 skill |
 | [Build responsive web layouts](https://claude.com/blog/build-responsive-web-layouts) | 2025-10-10 | 1 skill |
 | [Customize Claude Code with plugins](https://claude.com/blog/claude-code-plugins) | 2025-10-09 | 1 skill + 1 guide + 1 plugin |
@@ -216,6 +224,7 @@ Each artifact can be copied into a project as-is.
 | [Introducing the Message Batches API](https://claude.com/blog/message-batches-api) | 2024-10-08 | 1 skill |
 | [Workspaces in the Anthropic API Console](https://claude.com/blog/workspaces) | 2024-09-10 | 1 skill + 1 guide |
 | [Claude for Enterprise](https://claude.com/blog/claude-for-enterprise) | 2024-09-10 | 1 skill + 1 guide |
+| [Artifacts are now generally available](https://claude.com/blog/artifacts) | 2024-08-27 | 1 skill |
 | [Claude Android app](https://claude.com/blog/android-app) | 2024-07-16 | 1 skill |
 | [Fine-tune Claude 3 Haiku in Amazon Bedrock](https://claude.com/blog/fine-tune-claude-3-haiku) | 2024-07-10 | 1 skill |
 | [Evaluate prompts in the developer console](https://claude.com/blog/evaluate-prompts) | 2024-07-09 | 1 skill |
