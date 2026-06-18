@@ -853,6 +853,11 @@
       "blog_slug": "2026.06.18_steering-claude-code-skills-hooks-rules-subagents-and-more",
       "processed_at": "2026-06-18T19:05:26Z",
       "source_date": "2026-06-18"
+    },
+    "https://claude.com/blog/enterprise-managed-auth": {
+      "blog_slug": "2026.06.18_enterprise-managed-auth",
+      "processed_at": "2026-06-18T23:01:10Z",
+      "source_date": "2026-06-18"
     }
   }
 }
