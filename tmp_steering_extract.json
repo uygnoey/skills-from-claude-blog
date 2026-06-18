@@ -1,0 +1,75 @@
+{
+  "url": "https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more",
+  "blog_slug": "steering-claude-code-skills-hooks-rules-subagents-and-more",
+  "title": "Steering Claude Code: skills, hooks, subagents and more",
+  "published_date": "2026-06-18",
+  "descriptions": {
+    "en": {
+      "what_heading": "What is this post?",
+      "when_heading": "When is it useful?",
+      "key_heading": "Key points",
+      "bundle_heading": "Bundled resources",
+      "source_heading": "Source",
+      "what": "This post explains the main methods for steering Claude Code behavior and provides a decision framework for choosing where instructions should live.",
+      "when": "Use it when you are customizing Claude Code and need to balance context cost, persistence across long sessions (compaction), and instruction authority.",
+      "key": "- Seven methods are covered: CLAUDE.md files, rules, skills, subagents, hooks, output styles, and appending the system prompt.\n- Each method differs in when it loads, how it behaves under compaction, and its context cost.\n- Guidance: keep root CLAUDE.md concise (<200 lines) and push procedures into skills and constraints into (path-scoped) rules.\n- Use subagents for isolated side tasks whose intermediate work should not clutter the main thread.\n- Use hooks for deterministic automation and enforcement (e.g., PreToolUse can deny tool calls by exiting with code 2).\n- Use output styles only for significant role changes; consider built-in styles before writing custom ones.\n- Once you have several methods configured, you can bundle them as a plugin to share a coherent setup.",
+      "bundle": "- Comparison table of methods and tradeoffs\n- Examples: path-scoped rule frontmatter; subdirectory CLAUDE.md loading behavior\n- Lists of hook types and lifecycle events (PreCompact, PreToolUse)"
+    },
+    "ko": {
+      "what_heading": "이 글이 뭔가요",
+      "when_heading": "언제 유용한가요",
+      "key_heading": "핵심 포인트",
+      "bundle_heading": "번들 리소스",
+      "source_heading": "출처",
+      "what": "이 글은 Claude Code의 동작을 ‘어디에 어떤 지시를 두어야 하는지’에 대한 방법들을 정리하고, 컨텍스트 비용·지속성(컴팩션)·권한(가중치) 관점의 판단 프레임워크를 제공합니다.",
+      "when": "Claude Code를 커스터마이즈할 때, 지시문을 CLAUDE.md/Rules/Skills/Subagents/Hooks/Output styles/시스템 프롬프트 append 중 어디에 둘지 결정해야 하는 경우에 유용합니다.",
+      "key": "- 7가지 방법을 다룹니다: CLAUDE.md, Rules, Skills, Subagents, Hooks, Output styles, 시스템 프롬프트 append.\n- 각 방법은 로드 시점, 컴팩션 시 동작, 컨텍스트 비용이 다릅니다.\n- 루트 CLAUDE.md는 200줄 이하로 유지하고, 절차는 skills로, 제약은 (path-scoped) rules로 옮기라고 권장합니다.\n- subagents는 메인 스레드에 중간 결과를 남기고 싶지 않은 ‘격리된 사이드 태스크’에 적합합니다.\n- hooks는 결정적 자동화/강제에 적합하며, PreToolUse는 exit code 2로 도구 호출을 차단할 수 있습니다.\n- output styles는 큰 역할 변화에만 사용하고, 커스텀 작성 전 내장 스타일을 먼저 확인하라고 안내합니다.\n- 여러 설정이 쌓이면 plugin으로 번들링해 공유할 수 있다고 언급합니다.",
+      "bundle": "- 방법별 비교 표(트레이드오프)\n- 예시: path-scoped rule frontmatter; 서브디렉터리 CLAUDE.md 로드 방식\n- hook 타입과 라이프사이클 이벤트(PreCompact, PreToolUse) 설명"
+    },
+    "es": {
+      "what_heading": "¿De qué trata este post?",
+      "when_heading": "¿Cuándo es útil?",
+      "key_heading": "Puntos clave",
+      "bundle_heading": "Recursos incluidos",
+      "source_heading": "Fuente",
+      "what": "Este post explica las principales formas de dirigir el comportamiento de Claude Code y ofrece un marco de decisión para elegir dónde deben vivir las instrucciones.",
+      "when": "Es útil cuando estás personalizando Claude Code y necesitas equilibrar costo de contexto, persistencia en sesiones largas (compaction) y autoridad de las instrucciones.",
+      "key": "- Se cubren 7 métodos: archivos CLAUDE.md, rules, skills, subagents, hooks, output styles y añadir al system prompt.\n- Cada método difiere en cuándo se carga, cómo se comporta con compaction y su costo de contexto.\n- Consejo: mantener el CLAUDE.md raíz conciso (<200 líneas), mover procedimientos a skills y restricciones a rules con paths.\n- Usa subagents para tareas laterales aisladas cuyos pasos intermedios no deben ensuciar el hilo principal.\n- Usa hooks para automatización y enforcement deterministas (p. ej., PreToolUse puede denegar llamadas saliendo con código 2).\n- Usa output styles solo para cambios de rol significativos; revisa estilos incorporados antes de crear uno personalizado.\n- El post menciona que puedes agrupar varios métodos como un plugin para compartir una configuración coherente.",
+      "bundle": "- Tabla comparativa de métodos y trade-offs\n- Ejemplos: frontmatter de rules con paths; comportamiento de carga de CLAUDE.md en subdirectorios\n- Tipos de hooks y eventos (PreCompact, PreToolUse)"
+    },
+    "ja": {
+      "what_heading": "この記事について",
+      "when_heading": "どんなときに役立つか",
+      "key_heading": "主なポイント",
+      "bundle_heading": "同梱リソース",
+      "source_heading": "出典",
+      "what": "この記事は、Claude Code の挙動を指示する方法を整理し、指示をどこに置くべきかを判断するためのフレームワークを示します。",
+      "when": "Claude Code をカスタマイズする際に、コンテキストコスト、長いセッションでの持続性（compaction）、指示の権限（重み）を踏まえて配置を決めたいときに役立ちます。",
+      "key": "- 7つの方法: CLAUDE.md、Rules、Skills、Subagents、Hooks、Output styles、system prompt の append。\n- 各方法は、ロードタイミング、compaction 時の挙動、コンテキストコストが異なります。\n- ルート CLAUDE.md は 200行未満に保ち、手順は skills に、制約は（path-scoped）rules に移すことを推奨しています。\n- subagents は、途中経過をメインスレッドに残したくない隔離されたサイドタスクに向きます。\n- hooks は決定的な自動化・強制のために使い、PreToolUse は exit code 2 でツール呼び出しをブロックできます。\n- output styles は大きなロール変更にのみ使い、カスタム作成の前に組み込みスタイルを確認するよう勧めています。\n- 複数の設定が揃ったら plugin として束ねて共有できると述べています。",
+      "bundle": "- 手法比較テーブル\n- 例: paths 付き rule frontmatter、サブディレクトリ CLAUDE.md のロード挙動\n- hook の種類とイベント（PreCompact, PreToolUse）"
+    }
+  },
+  "skill": {
+    "name": "instruction-placement-framework",
+    "skill_md": "---\nname: instruction-placement-framework\ndescription: Decide where to place Claude Code instructions (CLAUDE.md, rules, skills, subagents, hooks, output styles, or appended system prompt) based on load timing, compaction behavior, context cost, and authority.\n---\n\n## Instructions\n\nUse this skill when you are configuring Claude Code and want a consistent way to choose *where* an instruction should live.\n\n1. Classify the instruction:\n   - Project facts that should always be in context → CLAUDE.md (root)\n   - Team or folder-specific conventions → CLAUDE.md (subdirectory) or path-scoped rules\n   - Specific constraints that must hold reliably → rules (prefer path-scoped)\n   - A repeatable procedure (runbook/checklist) → skill\n   - A side task that should run in isolation and return only a summary → subagent\n   - Deterministic automation or enforcement on lifecycle events → hook\n   - A major, persistent change in role or tone → output style\n   - One-off additive instructions for a single invocation → append-system-prompt\n\n2. Check tradeoffs:\n   - If always-on instructions are growing, reduce context cost by using path scoping or skills.\n   - If you need deterministic enforcement, prefer hooks/permissions over prompts.\n   - If you don’t want intermediate results cluttering the main thread, use subagents.\n\n## Examples\n\n- If you wrote a 30-line deployment procedure in CLAUDE.md, move it into a skill.\n- If a rule only applies to `src/api/**`, add `paths:` frontmatter so it loads only when relevant.\n- If you need to block a dangerous tool call reliably, use a PreToolUse hook and exit code 2.\n\nSee: references/methods-table.md\nSee: examples/rules-paths-frontmatter.md\n",
+    "companion_files": {
+      "references/methods-table.md": "# Steering methods comparison table\n\nThis table is reproduced from the source blog post (paraphrased only for formatting).\n\n| Method | When it's loaded | Compaction behavior | Context cost | When to use |\n|---|---|---|---|---|\n| CLAUDE.md (root) | Session start; stays in context for the entire session | Memoized; re-read after compaction | High | Build commands, directory layout, monorepo structure, coding conventions, team norms |\n| CLAUDE.md (subdirectory) | On-demand, when Claude reads a file under that subdirectory | Lost until that subdirectory is touched again | Low | Conventions specific to a subdirectory |\n| Rules | Session start (user-level) or only when matching files are touched (path-scoped) | Re-injected on compaction | Medium | Specific constraints or conventions |\n| Skills | Name/description at session start; body loads when invoked | Re-injected up to shared budget; oldest dropped first | Low | Procedural workflows (deploy or release checklists) |\n| Subagents | Name/description/tools at session start; body loads only when called | Only final message + metadata returns | Low | Isolated side tasks (deep search, log analysis, dependency audit) |\n| Hooks | Fire on lifecycle events | Bypass compaction entirely | Low | Deterministic automation/enforcement |\n| Output styles | Session start; injected into system prompt | Never compacted | High | Significant role changes |\n| Appending the system prompt | Session start; passed as CLI flag | Never compacted; applies only to that invocation | Moderate | Tone, response length, formatting preferences |\n\nSource: https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more\n",
+      "examples/rules-paths-frontmatter.md": "# Path-scoped rule frontmatter example\n\nThe following example is quoted from the source blog post.\n\n```\n---\npaths:\n - \"src/api/**\"\n - \"**/*.handler.ts\"\n---\nAll API handlers must validate input with Zod before processing.\n```\n\nSource: https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more\n"
+    }
+  },
+  "guide": {
+    "stem": "steering-claude-code",
+    "files": {
+      "en": "# Decision framework for steering Claude Code\n\n## Summary\n\nClaude Code provides several places to put instructions, each with different tradeoffs (load timing, compaction behavior, context cost, and authority).\n\n## The seven methods\n\nThe post covers: CLAUDE.md files, rules, skills, subagents, hooks, output styles, and appending the system prompt.\n\n## Practical placement guidance\n\n- Keep root CLAUDE.md concise (<200 lines) and treat it like code (owner + review).\n- Use subdirectory CLAUDE.md files for conventions limited to a folder.\n- Use rules for constraints; prefer path-scoped rules so they load only when relevant.\n- Use skills for procedures (deploy workflows, release checklists, review processes).\n- Use subagents for isolated side tasks that should return only a summary.\n- Use hooks for deterministic automation and enforcement on lifecycle events.\n- Use output styles only for significant role changes; check built-in styles first.\n- Use append-system-prompt for one-off additive instructions (tone/format).\n\n## Source\n\n- https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more\n",
+      "ko": "# Claude Code 지시문 배치(steering) 프레임워크\n\n## 요약\n\nClaude Code에는 지시문을 둘 수 있는 여러 위치가 있고, 각각 로드 시점/컴팩션/컨텍스트 비용/권한이 다릅니다.\n\n## 7가지 방법\n\n이 글은 CLAUDE.md, Rules, Skills, Subagents, Hooks, Output styles, 시스템 프롬프트 append를 다룹니다.\n\n## 실전 가이드\n\n- 루트 CLAUDE.md는 200줄 이하로 유지하고(오너 지정 + 코드처럼 리뷰) ‘항상 필요한 사실’만 둡니다.\n- 폴더 한정 규칙은 서브디렉터리 CLAUDE.md로 둡니다.\n- 제약은 rules에 두고, 가능하면 path-scoped rules로 범위를 제한합니다.\n- 절차(배포, 릴리스, 리뷰)는 skills로 옮깁니다.\n- 메인 스레드를 더럽히기 싫은 사이드 태스크는 subagents로 격리합니다.\n- 결정적 자동화/강제는 hooks로 구현합니다.\n- output styles는 큰 역할 변화에만 사용하고, 커스텀 전에 내장 스타일을 확인합니다.\n- append-system-prompt는 1회성 추가 지시(톤/형식)에 사용합니다.\n\n## 출처\n\n- https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more\n",
+      "es": "# Marco de decisión para dirigir Claude Code\n\n## Resumen\n\nClaude Code ofrece varios lugares para colocar instrucciones, cada uno con trade-offs (cuándo se cargan, compaction, costo de contexto y autoridad).\n\n## Los 7 métodos\n\nEl post cubre: archivos CLAUDE.md, rules, skills, subagents, hooks, output styles y añadir al system prompt.\n\n## Guía práctica\n\n- Mantén el CLAUDE.md raíz conciso (<200 líneas) y trátalo como código (owner + revisión).\n- Usa CLAUDE.md en subdirectorios para convenciones limitadas a una carpeta.\n- Usa rules para restricciones; prefiere rules con paths para que solo se carguen cuando aplique.\n- Usa skills para procedimientos (deploy, checklist de release, procesos de review).\n- Usa subagents para tareas laterales aisladas que devuelven solo un resumen.\n- Usa hooks para automatización/enforcement deterministas.\n- Usa output styles solo para cambios de rol significativos; revisa estilos incorporados antes de crear uno.\n- Usa append-system-prompt para instrucciones aditivas de una sola invocación (tono/formato).\n\n## Fuente\n\n- https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more\n",
+      "ja": "# Claude Code を steer するための判断フレームワーク\n\n## 概要\n\nClaude Code には指示を置ける場所が複数あり、ロードタイミング、compaction、コンテキストコスト、権限（重み）がそれぞれ異なります。\n\n## 7つの方法\n\nこの記事は、CLAUDE.md、Rules、Skills、Subagents、Hooks、Output styles、system prompt の append を扱います。\n\n## 実践ガイド\n\n- ルート CLAUDE.md は 200行未満に保ち、owner を決めてコードのようにレビューします。\n- フォルダ固有の慣習はサブディレクトリ CLAUDE.md に置きます。\n- 制約は rules に置き、可能なら paths 付きでスコープします。\n- 手順（デプロイ、リリースチェックリスト、レビュー手順）は skills に置きます。\n- 中間結果をメインスレッドに残したくないサイドタスクは subagents に分離します。\n- 決定的な自動化・強制は hooks を使います。\n- output styles は大きなロール変更にのみ使い、カスタムの前に組み込みスタイルを確認します。\n- append-system-prompt は 1回限りの追加指示（トーン/フォーマット）に使います。\n\n## 出典\n\n- https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more\n"
+    }
+  },
+  "agents": [
+    {
+      "name": "side-task-runner",
+      "md": "---\nname: side-task-runner\ndescription: Run an isolated side task (deep search, log analysis, dependency audit) and return only a final summary plus metadata.\n---\n\nYou are a subagent that runs in an isolated context window.\n\n## Operating rules\n\n- Do not edit the user’s working tree unless explicitly asked; focus on analysis.\n- Work in your own scratch notes; only return a final summary and any metadata required to act on the result.\n- Keep intermediate reasoning out of the parent conversation; condense to actionable bullets.\n\n## Output format\n\nReturn:\n- Summary (bullets)\n- Key evidence (file paths, commands run, or links)\n- Next actions\n\nSource: https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more\n"
+    }
+  ]
+}

@@ -843,6 +843,16 @@
       "blog_slug": "2026.06.17_workload-identity-federation",
       "processed_at": "2026-06-18T03:02:42Z",
       "source_date": "2026-06-17"
+    },
+    "https://claude.com/blog/artifacts-in-claude-code": {
+      "blog_slug": "2026.06.18_artifacts-in-claude-code",
+      "processed_at": "2026-06-18T19:05:26Z",
+      "source_date": "2026-06-18"
+    },
+    "https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more": {
+      "blog_slug": "2026.06.18_steering-claude-code-skills-hooks-rules-subagents-and-more",
+      "processed_at": "2026-06-18T19:05:26Z",
+      "source_date": "2026-06-18"
     }
   }
 }

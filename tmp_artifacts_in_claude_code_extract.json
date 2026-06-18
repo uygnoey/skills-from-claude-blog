@@ -1,0 +1,68 @@
+{
+  "url": "https://claude.com/blog/artifacts-in-claude-code",
+  "blog_slug": "artifacts-in-claude-code",
+  "title": "Claude Code now supports artifacts",
+  "published_date": "2026-06-18",
+  "descriptions": {
+    "en": {
+      "what_heading": "What is this post?",
+      "when_heading": "When is it useful?",
+      "key_heading": "Key points",
+      "bundle_heading": "Bundled resources",
+      "source_heading": "Source",
+      "what": "This post announces Claude Code artifacts: live, interactive web pages that summarize and visualize in-progress work from a Claude Code session.",
+      "when": "Use artifacts when you want to share the current state of engineering work (debugging, PR review, architecture exploration, dashboards, or release tracking) as a single link that updates as you work.",
+      "key": "- Artifacts are built from full session context (codebase, connectors, and conversation).\n- Artifacts update in place as the session progresses; each publish creates a new version at the same link with version history.\n- Artifacts are private by default, shareable within your organization, and cannot be made public.\n- A gallery lets you browse and manage artifacts.\n- Example prompts are provided for several roles (Legal, Privacy, Security, FinOps, Engineering, Design, Staff/Architecture, SRE, EM).",
+      "bundle": "- Example role-based prompts for requesting artifacts"
+    },
+    "ko": {
+      "what_heading": "이 글이 뭔가요",
+      "when_heading": "언제 유용한가요",
+      "key_heading": "핵심 포인트",
+      "bundle_heading": "번들 리소스",
+      "source_heading": "출처",
+      "what": "이 글은 Claude Code 아티팩트(artifacts)를 소개합니다. 아티팩트는 Claude Code 세션의 작업 진행 상황을 바탕으로 만들어지는 실시간·인터랙티브 웹 페이지입니다.",
+      "when": "디버깅, PR 리뷰, 아키텍처 파악, 대시보드, 릴리스 체크리스트 등 진행 중인 작업을 팀과 공유해야 할 때, 한 번의 링크로 보고/공유할 수 있는 뷰가 필요하면 유용합니다.",
+      "key": "- 아티팩트는 세션의 전체 컨텍스트(코드베이스, 커넥터, 대화)를 사용해 생성됩니다.\n- 세션이 진행되며 아티팩트가 제자리에서 업데이트되고, 동일 링크에 새 버전이 발행되며 버전 히스토리를 제공합니다.\n- 기본적으로 작성자에게 비공개이며, 조직 내 인증된 멤버에게 공유할 수 있고 공개로 전환할 수 없습니다.\n- 갤러리에서 생성한 아티팩트를 찾아보고 관리할 수 있습니다.\n- 역할별 예시 프롬프트(법무/오픈소스, 프라이버시, 보안, FinOps, 엔지니어, 디자이너/프런트엔드, 스태프/아키텍트, SRE/온콜, 엔지니어링 매니저)가 제공됩니다.",
+      "bundle": "- 아티팩트 요청을 위한 역할별 예시 프롬프트"
+    },
+    "es": {
+      "what_heading": "¿De qué trata este post?",
+      "when_heading": "¿Cuándo es útil?",
+      "key_heading": "Puntos clave",
+      "bundle_heading": "Recursos incluidos",
+      "source_heading": "Fuente",
+      "what": "Este post anuncia los artifacts de Claude Code: páginas web en vivo e interactivas que resumen y visualizan el trabajo en curso a partir del contexto completo de una sesión.",
+      "when": "Son útiles cuando necesitas compartir el estado actual del trabajo (depuración, revisión de PR, exploración de arquitectura, dashboards o seguimiento de releases) mediante un enlace único que se actualiza a medida que avanzas.",
+      "key": "- Los artifacts se construyen con el contexto completo de la sesión (código base, conectores y conversación).\n- Se actualizan en el lugar a medida que progresa la sesión; cada publicación crea una nueva versión en el mismo enlace con historial de versiones.\n- Son privados por defecto, se pueden compartir dentro de la organización y no pueden hacerse públicos.\n- Una galería permite explorar y administrar tus artifacts.\n- Incluye prompts de ejemplo por rol (Legal/OSS, Privacidad, Seguridad, FinOps, Ingeniería, Diseño, Staff/Arquitectura, SRE y management).",
+      "bundle": "- Prompts de ejemplo por rol para solicitar artifacts"
+    },
+    "ja": {
+      "what_heading": "この記事について",
+      "when_heading": "どんなときに役立つか",
+      "key_heading": "主なポイント",
+      "bundle_heading": "同梱リソース",
+      "source_heading": "出典",
+      "what": "この記事は、Claude Code の artifacts（アーティファクト）を紹介します。artifacts は、セッションの進行状況をもとに作られるライブで対話的な Web ページです。",
+      "when": "デバッグ、PR レビュー、アーキテクチャ把握、ダッシュボード、リリースチェックリストなどの進捗を、作業しながら更新される単一リンクとして共有したいときに役立ちます。",
+      "key": "- artifacts はセッションのフルコンテキスト（コードベース、コネクタ、会話）から生成されます。\n- セッションの進行に合わせてページがその場で更新され、同じリンクに新しいバージョンが公開され、履歴から復元できます。\n- デフォルトでは作者のみが閲覧でき、組織内で共有可能ですが公開はできません。\n- ギャラリーで artifacts を閲覧・管理できます。\n- 複数の職種向けの例示プロンプト（法務/OSS、プライバシー、セキュリティ、FinOps、エンジニア、デザイン/フロントエンド、スタッフ/アーキテクト、SRE/オンコール、EM）が含まれます。",
+      "bundle": "- artifacts を依頼するための職種別サンプルプロンプト"
+    }
+  },
+  "skill": {
+    "name": "request-artifacts",
+    "skill_md": "---\nname: request-artifacts\ndescription: Request and iteratively publish shareable Claude Code artifacts (live, interactive pages) built from full session context.\n---\n\n## Instructions\n\nUse this skill to turn an in-progress Claude Code session into a live, shareable artifact (an interactive web page) that updates as you work.\n\nWhen you invoke this skill, follow these steps:\n\n1. Ask what the artifact is for (PR walkthrough, incident investigation, dashboard, release checklist, architecture explainer) and who will read it.\n2. Propose a page outline (sections and key visuals) that can be kept up-to-date as new findings arrive.\n3. Build and publish the artifact, then republish as the session progresses so the same link stays current.\n4. Ensure the artifact references the session context it was built from (codebase, diffs, connector data, and reasoning from the session) and includes links back to relevant code where possible.\n5. Keep sensitive details private; artifacts are shareable only within the organization and cannot be made public.\n\n## Examples\n\n- Incident timeline artifact (live updates)\n  - Prompt: “Turn this incident into an artifact — timeline, suspect commits, error spike from our monitoring — and republish as I work through it.”\n\n- PR walkthrough artifact\n  - Prompt: “Make an artifact walking through this PR — the diff, the reasoning, and what I tested.”\n\n- License audit artifact\n  - Prompt: “Build an artifact listing every third-party dependency and its license, flagging anything copyleft.”\n\nSee: examples/role-prompts.md\n",
+    "companion_files": {
+      "examples/role-prompts.md": "# Role-based example prompts\n\nThese prompts are quoted from the source blog post.\n\n- Legal / open source: \"Build an artifact listing every third-party dependency and its license, flagging anything copyleft.\"\n- Privacy: \"Trace where we touch personal data across the codebase into an artifact for the privacy review.\"\n- Security: \"Build an artifact of the auth findings from this review, each linked to the code.\"\n- FinOps / platform finance: \"Map our cloud resources from the Terraform into an artifact, grouped by service, with the big cost drivers.\"\n- Software engineers: \"Make an artifact walking through this PR — the diff, the reasoning, and what I tested.\"\n- Designers & frontend engineers: \"Give me an artifact with 5 UX variations of this signup form, built from our component library.\"\n- Staff engineers & architects: \"Map how the payments service fits together into an artifact, from the code.\"\n- SRE & on-call: \"Turn this incident into an artifact — timeline, suspect commits, error spike from our monitoring — and republish as I work through it.\"\n- Engineering managers: \"Build an artifact of what merged on my team this week from the PRs, grouped by project.\"\n"
+    }
+  },
+  "guide": {
+    "stem": "artifacts-getting-started",
+    "files": {
+      "en": "# Using Claude Code artifacts for shareable, live status\n\n## What are artifacts?\n\nArtifacts are live, interactive web pages generated from the full context of your Claude Code session (codebase, connectors, and conversation).\n\n## When to use them\n\nUse artifacts when you want to share in-progress work as a single link that teammates can open and explore, without having to replay the whole session.\n\nCommon formats include PR walkthroughs, system explainers, dashboards, and release checklists.\n\n## Workflow\n\n1. Ask for an artifact (or ask for something visual).\n2. Review the first version, then keep working.\n3. Republish as you learn more; the open page refreshes and the link stays the same with version history.\n4. Share the link from the page header with teammates.\n\n## Privacy and sharing\n\nArtifacts are private to the author by default, shareable within your organization, and cannot be made public.\n\n## Source\n\n- https://claude.com/blog/artifacts-in-claude-code\n",
+      "ko": "# Claude Code 아티팩트로 진행 상황을 ‘공유 가능한 라이브 페이지’로 만들기\n\n## 아티팩트란?\n\n아티팩트는 Claude Code 세션의 전체 컨텍스트(코드베이스, 커넥터, 대화)를 바탕으로 생성되는 실시간·인터랙티브 웹 페이지입니다.\n\n## 언제 쓰면 좋나요\n\n진행 중인 작업을 팀과 공유할 때, 세션 전체를 다시 설명하지 않고도 한 번의 링크로 현재 상태를 보여주고 싶다면 유용합니다.\n\nPR 워크스루, 시스템 설명, 대시보드, 릴리스 체크리스트 같은 형태가 대표적입니다.\n\n## 사용 흐름\n\n1. 아티팩트를 만들어 달라고 요청합니다(또는 ‘시각적인 결과’를 요청합니다).\n2. 첫 버전을 확인한 뒤 작업을 계속합니다.\n3. 새로 알게 된 내용을 반영해 재발행합니다. 페이지는 제자리에서 갱신되고, 링크는 동일하며 버전 히스토리가 남습니다.\n4. 페이지 헤더의 링크를 팀에 공유합니다.\n\n## 프라이버시/공유\n\n아티팩트는 기본적으로 작성자에게 비공개이며, 조직 내에서만 공유할 수 있고 공개로 전환할 수 없습니다.\n\n## 출처\n\n- https://claude.com/blog/artifacts-in-claude-code\n",
+      "es": "# Usar artifacts de Claude Code para compartir el estado en vivo\n\n## ¿Qué son los artifacts?\n\nLos artifacts son páginas web en vivo e interactivas generadas a partir del contexto completo de tu sesión de Claude Code (código base, conectores y conversación).\n\n## Cuándo usarlos\n\nÚsalos cuando quieras compartir trabajo en curso como un enlace único que el equipo pueda abrir y explorar sin tener que repasar toda la sesión.\n\nFormatos comunes: walkthroughs de PR, explicaciones de sistemas, dashboards y checklists de release.\n\n## Flujo de trabajo\n\n1. Pide un artifact (o pide algo visual).\n2. Revisa la primera versión y continúa trabajando.\n3. Vuelve a publicar a medida que avances; la página se actualiza en el lugar y el enlace se mantiene con historial de versiones.\n4. Comparte el enlace desde el encabezado de la página.\n\n## Privacidad y compartición\n\nLos artifacts son privados por defecto, se comparten solo dentro de la organización y no pueden hacerse públicos.\n\n## Fuente\n\n- https://claude.com/blog/artifacts-in-claude-code\n",
+      "ja": "# Claude Code artifacts で進捗を共有できるライブページにする\n\n## artifacts とは\n\nartifacts は、Claude Code セッションのフルコンテキスト（コードベース、コネクタ、会話）から生成されるライブで対話的な Web ページです。\n\n## どんなときに役立つか\n\n進行中の作業を、チームが単一リンクで開いて探索できる形で共有したいときに役立ちます。セッション全体を説明し直す必要がありません。\n\n代表的な形式は PR のウォークスルー、システム説明、ダッシュボード、リリースチェックリストです。\n\n## 使い方の流れ\n\n1. artifact を依頼します（または「視覚的なものが欲しい」と依頼します）。\n2. 最初のバージョンを確認して作業を続けます。\n3. 学びに合わせて再公開します。ページはその場で更新され、リンクは同じでバージョン履歴が残ります。\n4. ページヘッダーからリンクを共有します。\n\n## プライバシーと共有\n\nartifacts はデフォルトで作者のみが閲覧でき、組織内で共有できますが公開はできません。\n\n## 出典\n\n- https://claude.com/blog/artifacts-in-claude-code\n"
+    }
+  }
+}

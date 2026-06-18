@@ -69,6 +69,9 @@ Each artifact can be copied into a project as-is.
 
 | Blog post | Published | Artifacts |
 |---|---|---|
+| [Steering Claude Code: skills, hooks, subagents and more](https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more) | 2026-06-18 | 1 skill + 1 agent + 1 guide |
+| [Claude Code now supports artifacts](https://claude.com/blog/artifacts-in-claude-code) | 2026-06-18 | 1 skill + 1 guide |
+| [Secure access to the Claude Platform with Workload Identity Federation](https://claude.com/blog/workload-identity-federation) | 2026-06-17 | 1 skill |
 | [Meet the winners of our Claude Opus 4.8 Build Day hackathon](https://claude.com/blog/meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon) | 2026-06-17 | 1 skill + 1 guide |
 | [Claude Design now stays on brand for daily work](https://claude.com/blog/claude-design-stays-on-brand-for-daily-work) | 2026-06-17 | 1 skill + 1 guide |
 | [Meet the winners of Built with Opus 4.7 Claude Code hackathon](https://claude.com/blog/meet-the-winners-of-built-with-opus-4-7-claude-code-hackathon) | 2026-06-15 | 1 skill + 1 guide |
