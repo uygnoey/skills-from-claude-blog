@@ -1,7 +1,7 @@
 {
   "description": "Map of processed blog URLs -> { blog_slug, processed_at, source_date }",
   "meta": {
-    "last_run_at": "2026-06-17"
+    "last_run_at": "2026-06-18"
   },
   "entries": {
     "https://claude.com/blog/using-claude-md-files": {
@@ -837,6 +837,11 @@
     "https://claude.com/blog/claude-design-stays-on-brand-for-daily-work": {
       "blog_slug": "2026.06.17_claude-design-stays-on-brand-for-daily-work",
       "processed_at": "2026-06-17T23:05:02Z",
+      "source_date": "2026-06-17"
+    },
+    "https://claude.com/blog/workload-identity-federation": {
+      "blog_slug": "2026.06.17_workload-identity-federation",
+      "processed_at": "2026-06-18T03:02:42Z",
       "source_date": "2026-06-17"
     }
   }
