@@ -873,6 +873,11 @@
       "blog_slug": "2026.06.24_building-effective-human-agent-teams",
       "processed_at": "2026-06-24T19:03:35Z",
       "source_date": "2026-06-24"
+    },
+    "https://claude.com/blog/claude-in-microsoft-foundry": {
+      "blog_slug": "2026.06.29_claude-in-microsoft-foundry",
+      "processed_at": "2026-06-29T19:03:33Z",
+      "source_date": "2026-06-29"
     }
   }
 }
