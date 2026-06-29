@@ -1,0 +1,5 @@
+{
+  "_comment": "Template derived from configuration concepts mentioned in https://claude.com/blog/introducing-the-claude-apps-gateway. The post mentions these keys but does not provide a full schema.",
+  "forceLoginMethod": "gateway",
+  "forceLoginGatewayUrl": "https://YOUR_GATEWAY_URL"
+}

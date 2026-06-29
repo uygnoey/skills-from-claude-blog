@@ -878,6 +878,11 @@
       "blog_slug": "2026.06.29_claude-in-microsoft-foundry",
       "processed_at": "2026-06-29T19:03:33Z",
       "source_date": "2026-06-29"
+    },
+    "https://claude.com/blog/introducing-the-claude-apps-gateway": {
+      "blog_slug": "2026.06.29_introducing-the-claude-apps-gateway",
+      "processed_at": "2026-06-29T23:03:27Z",
+      "source_date": "2026-06-29"
     }
   }
 }

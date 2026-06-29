@@ -1,0 +1,24 @@
+# Template derived from configuration concepts mentioned in:
+# https://claude.com/blog/introducing-the-claude-apps-gateway
+#
+# Notes:
+# - The source post references a `gateway.yaml` file but does not publish a full schema in the post.
+# - Fill these values according to your gateway documentation and environment.
+
+oidc:
+  issuer_url: "https://YOUR_OIDC_ISSUER"
+  client_id: "YOUR_OIDC_CLIENT_ID"
+  client_secret: "YOUR_OIDC_CLIENT_SECRET"
+
+upstream:
+  # Choose one upstream provider for inference routing.
+  provider: "bedrock|google-cloud|claude-api"
+  credential_ref: "YOUR_UPSTREAM_CREDENTIAL_REFERENCE"
+
+database:
+  # The post states the gateway is backed by PostgreSQL.
+  postgres_url: "postgresql://USER:PASSWORD@HOST:5432/DBNAME"
+
+telemetry:
+  # The post states usage metrics are relayed over OTLP to a collector you configure.
+  otlp_endpoint: "http://YOUR_COLLECTOR:4317"
