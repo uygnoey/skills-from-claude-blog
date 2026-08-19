@@ -1,0 +1,49 @@
+{
+  "name": "<agent-name>",
+  "owner": "<team or person accountable for this agent>",
+  "job": "<one sentence: the single job this agent does>",
+  "trigger": {
+    "type": "event",
+    "event": "<the thing that happens: new job created, document returned, PR opened>",
+    "_scheduled_alternative": {
+      "type": "schedule",
+      "cron": "<cron expression>",
+      "note": "Use type=schedule for timer-driven agents (hourly, daily, weekly). Recurring deployments can run on the CI system that already handles repo access, secrets, and billing."
+    }
+  },
+  "model": {
+    "default": "<mid-tier model for most agents>",
+    "_policy": "Small fast model for high-volume, fast tasks; larger model only where deeper reasoning justifies the cost. Swapping models is a one-line change."
+  },
+  "prompt": "system-prompt.md",
+  "tools": [
+    {
+      "type": "mcp",
+      "server": "<internal platform / reporting / chat / project management>",
+      "scopes": ["<least privilege for this agent's single job>"]
+    }
+  ],
+  "credentials": {
+    "vault": "<credential vault reference>",
+    "keys": ["<named secrets this agent may read>"]
+  },
+  "memory": {
+    "enabled": true,
+    "scope": "<workspace or agent>"
+  },
+  "workspace": "<shared workspace — governs billing and audit>",
+  "human_in_the_loop": {
+    "mode": "recommend",
+    "_modes": "recommend | automate — start at recommend; move to automate only after the agent matches or beats humans on this task in evals",
+    "surface": "<job banner for in-flow review, or chat channel for thread review>"
+  },
+  "value_reporting": {
+    "enabled": true,
+    "warehouse_table": "<table where this agent reports its own value per run>",
+    "units": ["hours_saved", "dollars_saved", "dollars_spent"]
+  },
+  "audit": {
+    "record_actions": true,
+    "destination": "<audit trail destination>"
+  }
+}

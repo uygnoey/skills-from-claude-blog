@@ -898,6 +898,16 @@
       "blog_slug": "2026.08.18_ai-ci-cd-on-call",
       "processed_at": "2026-08-19T15:45:32Z",
       "source_date": "2026-08-18"
+    },
+    "https://claude.com/blog/the-claude-science-product-guide": {
+      "blog_slug": "2026.08.18_the-claude-science-product-guide",
+      "processed_at": "2026-08-19T18:29:39Z",
+      "source_date": "2026-08-18"
+    },
+    "https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents": {
+      "blog_slug": "2026.08.17_how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents",
+      "processed_at": "2026-08-19T18:29:40Z",
+      "source_date": "2026-08-17"
     }
   }
 }
