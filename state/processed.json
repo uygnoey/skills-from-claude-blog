@@ -908,6 +908,16 @@
       "blog_slug": "2026.08.17_how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents",
       "processed_at": "2026-08-19T18:29:40Z",
       "source_date": "2026-08-17"
+    },
+    "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute": {
+      "blog_slug": "2026.08.06_run-claude-code-sessions-on-your-own-compute",
+      "processed_at": "2026-08-19T22:17:46Z",
+      "source_date": "2026-08-06"
+    },
+    "https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams": {
+      "blog_slug": "2026.08.19_turning-conversation-into-knowledge-how-slack-builds-human-agent-teams",
+      "processed_at": "2026-08-19T22:17:46Z",
+      "source_date": "2026-08-19"
     }
   }
 }
