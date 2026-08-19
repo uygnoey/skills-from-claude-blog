@@ -68,7 +68,16 @@ Claude 공식 블로그 글을 **글의 성격에 맞는 Claude Code 공식 규�
 
 | 블로그 글 | 게시일 | Artifacts |
 |---|---|---|
+| [Claude on call: How Claude Tag serves as Anthropic's first responder for CI/CD failures](https://claude.com/blog/ai-ci-cd-on-call) | 2026-08-18 | 1 skill + 3 agent + 1 guide |
+| [Inference hooks: inline data loss prevention for Claude Enterprise](https://claude.com/blog/claude-enterprise-inference-hooks) | 2026-08-05 | 1 skill + 1 guide |
+| [Getting started with loops](https://claude.com/blog/getting-started-with-loops) | 2026-06-30 | 2 skill |
+| [Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud](https://claude.com/blog/introducing-the-claude-apps-gateway) | 2026-06-29 | 1 skill + 1 guide |
+| [Claude in Microsoft Foundry is now generally available](https://claude.com/blog/claude-in-microsoft-foundry) | 2026-06-29 | 1 skill |
+| [Lessons from Anthropic on building effective human-agent teams](https://claude.com/blog/building-effective-human-agent-teams) | 2026-06-24 | 1 skill + 1 guide |
+| [Agent identity: a new access model for autonomous, team-wide AI \| Claude](https://claude.com/blog/agent-identity-access-model) | 2026-06-24 | 1 skill |
+| [The full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry](https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry) | 2026-06-22 | 1 skill |
 | [Steering Claude Code: skills, hooks, subagents and more](https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more) | 2026-06-18 | 1 skill + 1 agent + 1 guide |
+| [Centrally manage authorization for MCP connectors](https://claude.com/blog/enterprise-managed-auth) | 2026-06-18 | 1 skill + 1 guide |
 | [Claude Code now supports artifacts](https://claude.com/blog/artifacts-in-claude-code) | 2026-06-18 | 1 skill + 1 guide |
 | [Secure access to the Claude Platform with Workload Identity Federation](https://claude.com/blog/workload-identity-federation) | 2026-06-17 | 1 skill |
 | [Meet the winners of our Claude Opus 4.8 Build Day hackathon](https://claude.com/blog/meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon) | 2026-06-17 | 1 skill + 1 guide |
@@ -218,7 +227,7 @@ Claude 공식 블로그 글을 **글의 성격에 맞는 Claude Code 공식 규�
 | [Introducing the Max Plan](https://claude.com/blog/max-plan) | 2025-04-09 | 1 skill |
 | [Claude on Google Cloud’s Vertex AI: FedRAMP High and IL2 Authorized](https://claude.com/blog/claude-on-google-cloud-fedramp-high) | 2025-04-02 | 1 skill |
 | [Claude can now search the web](https://claude.com/blog/web-search) | 2025-03-20 | 1 skill |
-| [Token-saving updates on the Anthropic API](https://claude.com/blog/token-saving-updates) | 2025-03-13 | (no artifacts) |
+| [Token-saving updates on the Anthropic API](https://claude.com/blog/token-saving-updates) | 2025-03-13 | 1 skill |
 | [Get to production faster with the upgraded Anthropic Console](https://claude.com/blog/upgraded-anthropic-console) | 2025-03-06 | 1 skill |
 | [Claude 3.5 Haiku on AWS Trainium2 and model distillation in Amazon Bedrock](https://claude.com/blog/trainium2-and-distillation) | 2024-12-03 | 1 skill |
 | [Introducing the analysis tool in Claude.ai](https://claude.com/blog/analysis-tool) | 2024-10-24 | 1 skill |
@@ -232,7 +241,7 @@ Claude 공식 블로그 글을 **글의 성격에 맞는 Claude Code 공식 규�
 | [Evaluate prompts in the developer console](https://claude.com/blog/evaluate-prompts) | 2024-07-09 | 1 skill |
 | [Claude can now use tools](https://claude.com/blog/tool-use-ga) | 2024-05-30 | 1 skill |
 | [Generate better prompts in the developer Console](https://claude.com/blog/prompt-generator) | 2024-05-20 | 1 skill |
-| [Introducing the Claude Team plan and iOS app](https://claude.com/blog/team-plan-and-ios) | 2024-05-01 | (no artifacts) |
+| [Introducing the Claude Team plan and iOS app](https://claude.com/blog/team-plan-and-ios) | 2024-05-01 | 1 guide |
 | [Long context prompting for Claude 2.1](https://claude.com/blog/claude-2-1-prompting) | 2023-12-06 | 1 skill |
 | [Claude on Amazon Bedrock now available to every AWS customer](https://claude.com/blog/amazon-bedrock-general-availability) | 2023-09-28 | 1 skill |
 | [Claude 2 on Amazon Bedrock](https://claude.com/blog/claude-2-amazon-bedrock) | 2023-08-23 | 1 skill |

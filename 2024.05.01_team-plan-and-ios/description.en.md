@@ -13,7 +13,7 @@ This post announces two Claude product updates: the Claude Team plan (a paid wor
 - The Claude iOS app is free for all plans and supports chat syncing and vision (photos/files).
 
 ## Bundled resources
-- None (announcement post).
+- `guides/team-plan-and-mobile-access.{en,ko,es,ja}.md` — a four-language survey of what the Team plan includes and what the iOS app changes in practice.
 
 ## Source
 - https://claude.com/blog/team-plan-and-ios

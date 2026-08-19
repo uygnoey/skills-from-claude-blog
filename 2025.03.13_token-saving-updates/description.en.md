@@ -16,7 +16,8 @@ This post announces updates to the Anthropic API focused on reducing token usage
 - The new `text_editor` tool supports targeted edits to parts of text (e.g., code, documents), helping reduce tokens and latency.
 
 ## Bundled resources
-- None (announcement post).
+- `skills/reduce-token-usage/SKILL.md` — how to apply the three levers: prompt caching, cache-aware rate limits, and token-efficient tool use.
+- `skills/reduce-token-usage/references/token-levers.md` — what each lever changes, what defeats it, and how to pick between them.
 
 ## Source
 - https://claude.com/blog/token-saving-updates

@@ -1,7 +1,7 @@
 {
   "description": "Map of processed blog URLs -> { blog_slug, processed_at, source_date }",
   "meta": {
-    "last_run_at": "2026-06-30"
+    "last_run_at": "2026-08-19"
   },
   "entries": {
     "https://claude.com/blog/using-claude-md-files": {
@@ -888,6 +888,16 @@
       "blog_slug": "2026.06.30_getting-started-with-loops",
       "processed_at": "2026-06-30T19:02:02Z",
       "source_date": "2026-06-30"
+    },
+    "https://claude.com/blog/claude-enterprise-inference-hooks": {
+      "blog_slug": "2026.08.05_claude-enterprise-inference-hooks",
+      "processed_at": "2026-08-19T15:45:32Z",
+      "source_date": "2026-08-05"
+    },
+    "https://claude.com/blog/ai-ci-cd-on-call": {
+      "blog_slug": "2026.08.18_ai-ci-cd-on-call",
+      "processed_at": "2026-08-19T15:45:32Z",
+      "source_date": "2026-08-18"
     }
   }
 }

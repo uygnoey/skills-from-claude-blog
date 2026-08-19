@@ -13,7 +13,7 @@
 - Claude iOS アプリはすべてのプランで無料で利用でき、チャット同期とビジョン（写真/ファイル）に対応します。
 
 ## 同梱リソース
-- なし（発表記事）。
+- `guides/team-plan-and-mobile-access.{en,ko,es,ja}.md` — Team プランに何が含まれるか、iOS アプリが実際に何を変えるかを扱う 4 言語のサーベイ。
 
 ## 出典
 - https://claude.com/blog/team-plan-and-ios

@@ -13,7 +13,7 @@ Este post anuncia dos actualizaciones de producto de Claude: el plan Claude Team
 - La app de Claude para iOS es gratuita en todos los planes y admite sincronización de chats y visión (fotos/archivos).
 
 ## Recursos incluidos
-- Ninguno (post de anuncio).
+- `guides/team-plan-and-mobile-access.{en,ko,es,ja}.md` — un repaso en cuatro idiomas de lo que incluye el plan Team y de lo que cambia la app de iOS en la práctica.
 
 ## Fuente
 - https://claude.com/blog/team-plan-and-ios

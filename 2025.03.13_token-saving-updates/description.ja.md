@@ -16,7 +16,8 @@
 - `text_editor` ツールは、コードやドキュメントなどテキストの特定部分に対するターゲット編集を可能にし、トークンとレイテンシの削減に役立ちます。
 
 ## 同梱リソース
-- なし（発表記事）。
+- `skills/reduce-token-usage/SKILL.md` — 三つのてこ（プロンプトキャッシュ、キャッシュを考慮したレート制限、トークン効率の高いツール利用）の適用方法。
+- `skills/reduce-token-usage/references/token-levers.md` — 各てこが変えるもの、それを無効にするもの、選び方。
 
 ## 出典
 - https://claude.com/blog/token-saving-updates

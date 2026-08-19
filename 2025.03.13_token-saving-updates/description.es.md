@@ -16,7 +16,8 @@ Este post anuncia actualizaciones de la API de Anthropic para reducir el uso de 
 - La herramienta `text_editor` permite ediciones dirigidas a porciones específicas de texto (p. ej., código o documentos), ayudando a reducir tokens y latencia.
 
 ## Recursos incluidos
-- Ninguno (post de anuncio).
+- `skills/reduce-token-usage/SKILL.md` — cómo aplicar las tres palancas: caché de prompts, límites de tasa conscientes de la caché y uso de herramientas eficiente en tokens.
+- `skills/reduce-token-usage/references/token-levers.md` — qué cambia cada palanca, qué la anula y cómo elegir entre ellas.
 
 ## Fuente
 - https://claude.com/blog/token-saving-updates

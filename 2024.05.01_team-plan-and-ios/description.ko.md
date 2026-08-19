@@ -13,7 +13,7 @@
 - Claude iOS 앱은 모든 플랜에서 무료이며 대화 동기화와 비전(사진/파일) 기능을 지원합니다.
 
 ## 번들 리소스
-- 없음(공지 성격의 글).
+- `guides/team-plan-and-mobile-access.{en,ko,es,ja}.md` — Team 플랜에 무엇이 포함되는지와 iOS 앱이 실제로 무엇을 바꾸는지에 대한 4개 언어 서베이.
 
 ## 출처
 - https://claude.com/blog/team-plan-and-ios

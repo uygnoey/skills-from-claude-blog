@@ -16,7 +16,8 @@
 - 새 `text_editor` 도구는 코드/문서 등 텍스트의 특정 부분만 목표로 편집할 수 있어 토큰과 지연을 줄이는 데 도움이 됩니다.
 
 ## 번들 리소스
-- 없음(공지 성격의 글).
+- `skills/reduce-token-usage/SKILL.md` — 세 가지 지렛대(프롬프트 캐싱, 캐시 인지 레이트 리밋, 토큰 효율적 도구 사용)를 적용하는 방법.
+- `skills/reduce-token-usage/references/token-levers.md` — 각 지렛대가 바꾸는 것, 무엇이 그것을 무력화하는지, 어떻게 고를지.
 
 ## 출처
 - https://claude.com/blog/token-saving-updates
