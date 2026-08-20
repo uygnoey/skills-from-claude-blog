@@ -948,6 +948,16 @@
       "blog_slug": "2026.08.12_cowork-chrome-side-panel",
       "processed_at": "2026-08-20T10:13:49Z",
       "source_date": "2026-08-12"
+    },
+    "https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions": {
+      "blog_slug": "2026.08.13_self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions",
+      "processed_at": "2026-08-20T14:14:10Z",
+      "source_date": "2026-08-13"
+    },
+    "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room": {
+      "blog_slug": "2026.08.13_claude-tag-now-reads-even-more-of-the-room",
+      "processed_at": "2026-08-20T14:14:10Z",
+      "source_date": "2026-08-13"
     }
   }
 }
