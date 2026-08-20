@@ -20,7 +20,9 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import ssl
 import sys
+import urllib.error
 import urllib.request
 from datetime import datetime
 from pathlib import Path
@@ -34,13 +36,29 @@ UA = {"User-Agent": "Mozilla/5.0"}
 
 BLOG_URL_PATTERN = re.compile(r"https://claude\.com/blog/[a-z0-9-]+")
 INDEX_LINK_PATTERN = re.compile(r'href="/blog/([a-z0-9-]+)"')
-INDEX_DATE_PATTERN = re.compile(r"([A-Z][a-z]+) (\d{1,2}), (20\d{2})")
+INDEX_DATE_FIELD_PATTERN = re.compile(
+    r'fs-list-field="date">([A-Z][a-z]+ \d{1,2}, 20\d{2})<'
+)
 
 
 def _fetch(url: str) -> str:
     req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        return resp.read().decode("utf-8", errors="ignore")
+    try:
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            return resp.read().decode("utf-8", errors="ignore")
+    except urllib.error.URLError as e:
+        # Some hosts (notably python.org builds on macOS) ship without a system
+        # CA bundle, so the default context cannot verify claude.com. Retry once
+        # with certifi's bundle before giving up.
+        if not isinstance(getattr(e, "reason", None), ssl.SSLCertVerificationError):
+            raise
+        try:
+            import certifi
+        except ImportError:
+            raise e
+        ctx = ssl.create_default_context(cafile=certifi.where())
+        with urllib.request.urlopen(req, timeout=30, context=ctx) as resp:
+            return resp.read().decode("utf-8", errors="ignore")
 
 
 def load_state() -> dict:
@@ -57,37 +75,35 @@ def fetch_sitemap_urls() -> list[str]:
 def fetch_blog_index() -> list[tuple[str, str]]:
     """Return [(url, 'YYYY-MM-DD' | 'unknown'), ...] from the /blog page.
 
-    The page renders each card with a link then a human date. We walk the HTML
-    in order, pairing each first-seen slug with the next date after it.
+    Each card renders its date in a `fs-list-field="date"` div, then the link
+    to the post a short distance later in the markup. Walk the dates in order
+    and attach each to the first blog link that follows it.
     """
     html = _fetch(BLOG_INDEX_URL)
 
-    link_positions: list[tuple[int, str]] = []
+    results: list[tuple[str, str]] = []
     seen: set[str] = set()
+    for m in INDEX_DATE_FIELD_PATTERN.finditer(html):
+        link = INDEX_LINK_PATTERN.search(html, m.end(), m.end() + 4000)
+        if not link:
+            continue
+        slug = link.group(1)
+        if slug in seen:
+            continue
+        seen.add(slug)
+        try:
+            date_str = datetime.strptime(m.group(1), "%B %d, %Y").strftime("%Y-%m-%d")
+        except ValueError:
+            date_str = "unknown"
+        results.append((f"https://claude.com/blog/{slug}", date_str))
+
+    # Fall back to link-only extraction for cards whose date field is missing.
     for m in INDEX_LINK_PATTERN.finditer(html):
         slug = m.group(1)
         if slug in seen:
             continue
         seen.add(slug)
-        link_positions.append((m.start(), slug))
-
-    date_positions = [(m.start(), m.group(0)) for m in INDEX_DATE_PATTERN.finditer(html)]
-
-    results: list[tuple[str, str]] = []
-    di = 0
-    for pos, slug in link_positions:
-        while di < len(date_positions) and date_positions[di][0] < pos:
-            di += 1
-        if di >= len(date_positions):
-            date_str = "unknown"
-        else:
-            try:
-                date_str = datetime.strptime(
-                    date_positions[di][1], "%B %d, %Y"
-                ).strftime("%Y-%m-%d")
-            except ValueError:
-                date_str = "unknown"
-        results.append((f"https://claude.com/blog/{slug}", date_str))
+        results.append((f"https://claude.com/blog/{slug}", "unknown"))
     return results
 
 

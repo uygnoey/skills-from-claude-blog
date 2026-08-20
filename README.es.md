@@ -73,7 +73,9 @@ Cada artefacto puede copiarse tal cual a tu proyecto.
 | [The Claude Science product guide](https://claude.com/blog/the-claude-science-product-guide) | 2026-08-18 | 1 skill + 1 guide |
 | [Claude on call: How Claude Tag serves as Anthropic's first responder for CI/CD failures](https://claude.com/blog/ai-ci-cd-on-call) | 2026-08-18 | 1 skill + 3 agent + 1 guide |
 | [How ABC Legal turned every employee into a builder with Claude Managed Agents](https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents) | 2026-08-17 | 1 skill + 4 agent + 1 guide |
+| [How Anthropic's business development team uses Claude to run inbound and outbound at scale](https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale) | 2026-08-07 | 4 skill + 1 guide |
 | [Run Claude Code sessions on your own compute](https://claude.com/blog/run-claude-code-sessions-on-your-own-compute) | 2026-08-06 | 1 skill + 1 guide |
+| [Millennium and Anthropic are building a digital risk analyst with Claude](https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude) | 2026-08-06 | 1 skill |
 | [Inference hooks: inline data loss prevention for Claude Enterprise](https://claude.com/blog/claude-enterprise-inference-hooks) | 2026-08-05 | 1 skill + 1 guide |
 | [Getting started with loops](https://claude.com/blog/getting-started-with-loops) | 2026-06-30 | 2 skill |
 | [Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud](https://claude.com/blog/introducing-the-claude-apps-gateway) | 2026-06-29 | 1 skill + 1 guide |

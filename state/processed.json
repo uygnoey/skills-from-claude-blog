@@ -1,7 +1,7 @@
 {
   "description": "Map of processed blog URLs -> { blog_slug, processed_at, source_date }",
   "meta": {
-    "last_run_at": "2026-08-19"
+    "last_run_at": "2026-08-20"
   },
   "entries": {
     "https://claude.com/blog/using-claude-md-files": {
@@ -918,6 +918,16 @@
       "blog_slug": "2026.08.19_turning-conversation-into-knowledge-how-slack-builds-human-agent-teams",
       "processed_at": "2026-08-19T22:17:46Z",
       "source_date": "2026-08-19"
+    },
+    "https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude": {
+      "blog_slug": "2026.08.06_millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude",
+      "processed_at": "2026-08-20T02:19:26Z",
+      "source_date": "2026-08-06"
+    },
+    "https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale": {
+      "blog_slug": "2026.08.07_how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale",
+      "processed_at": "2026-08-20T02:19:26Z",
+      "source_date": "2026-08-07"
     }
   }
 }
