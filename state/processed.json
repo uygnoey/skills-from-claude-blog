@@ -928,6 +928,16 @@
       "blog_slug": "2026.08.07_how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale",
       "processed_at": "2026-08-20T02:19:26Z",
       "source_date": "2026-08-07"
+    },
+    "https://claude.com/blog/auto-mode-default-in-claude-code": {
+      "blog_slug": "2026.08.07_auto-mode-default-in-claude-code",
+      "processed_at": "2026-08-20T06:21:18Z",
+      "source_date": "2026-08-07"
+    },
+    "https://claude.com/blog/auto-mode-in-production": {
+      "blog_slug": "2026.08.07_auto-mode-in-production",
+      "processed_at": "2026-08-20T06:21:18Z",
+      "source_date": "2026-08-07"
     }
   }
 }
