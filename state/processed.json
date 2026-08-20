@@ -968,6 +968,16 @@
       "blog_slug": "2026.08.14_maximizing-the-value-of-your-claude-code-sessions",
       "processed_at": "2026-08-20T18:22:33Z",
       "source_date": "2026-08-14"
+    },
+    "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai": {
+      "blog_slug": "2026.08.20_anthropics-approach-to-teaching-and-learning-ai",
+      "processed_at": "2026-08-20T22:22:20Z",
+      "source_date": "2026-08-20"
+    },
+    "https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate": {
+      "blog_slug": "2026.08.20_how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate",
+      "processed_at": "2026-08-20T22:22:20Z",
+      "source_date": "2026-08-20"
     }
   }
 }
