@@ -938,6 +938,16 @@
       "blog_slug": "2026.08.07_auto-mode-in-production",
       "processed_at": "2026-08-20T06:21:18Z",
       "source_date": "2026-08-07"
+    },
+    "https://claude.com/blog/compliance-api-cowork-and-claude-code": {
+      "blog_slug": "2026.08.11_compliance-api-cowork-and-claude-code",
+      "processed_at": "2026-08-20T10:13:49Z",
+      "source_date": "2026-08-11"
+    },
+    "https://claude.com/blog/cowork-chrome-side-panel": {
+      "blog_slug": "2026.08.12_cowork-chrome-side-panel",
+      "processed_at": "2026-08-20T10:13:49Z",
+      "source_date": "2026-08-12"
     }
   }
 }

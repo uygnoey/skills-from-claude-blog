@@ -72,6 +72,8 @@ Claude 공식 블로그 글을 **글의 성격에 맞는 Claude Code 공식 규�
 | [The Claude Science product guide](https://claude.com/blog/the-claude-science-product-guide) | 2026-08-18 | 1 skill + 1 guide |
 | [Claude on call: How Claude Tag serves as Anthropic's first responder for CI/CD failures](https://claude.com/blog/ai-ci-cd-on-call) | 2026-08-18 | 1 skill + 3 agent + 1 guide |
 | [How ABC Legal turned every employee into a builder with Claude Managed Agents](https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents) | 2026-08-17 | 1 skill + 4 agent + 1 guide |
+| [The Claude in Chrome side panel is now Claude Cowork](https://claude.com/blog/cowork-chrome-side-panel) | 2026-08-12 | 1 skill + 1 guide |
+| [Compliance API coverage extends to Claude Cowork and Claude Code](https://claude.com/blog/compliance-api-cowork-and-claude-code) | 2026-08-11 | 1 skill |
 | [How Anthropic's business development team uses Claude to run inbound and outbound at scale](https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale) | 2026-08-07 | 4 skill + 1 guide |
 | [Running auto mode in production](https://claude.com/blog/auto-mode-in-production) | 2026-08-07 | 1 skill + 1 guide |
 | [Auto mode is now the default in Claude Code for Pro, Max, and Team plans](https://claude.com/blog/auto-mode-default-in-claude-code) | 2026-08-07 | 1 skill + 1 guide |
