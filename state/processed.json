@@ -958,6 +958,16 @@
       "blog_slug": "2026.08.13_claude-tag-now-reads-even-more-of-the-room",
       "processed_at": "2026-08-20T14:14:10Z",
       "source_date": "2026-08-13"
+    },
+    "https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5": {
+      "blog_slug": "2026.08.13_how-jetbrains-evaluates-and-deploys-claude-fable-5",
+      "processed_at": "2026-08-20T18:22:33Z",
+      "source_date": "2026-08-13"
+    },
+    "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions": {
+      "blog_slug": "2026.08.14_maximizing-the-value-of-your-claude-code-sessions",
+      "processed_at": "2026-08-20T18:22:33Z",
+      "source_date": "2026-08-14"
     }
   }
 }

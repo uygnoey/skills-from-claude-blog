@@ -73,6 +73,8 @@ Cada artefacto puede copiarse tal cual a tu proyecto.
 | [The Claude Science product guide](https://claude.com/blog/the-claude-science-product-guide) | 2026-08-18 | 1 skill + 1 guide |
 | [Claude on call: How Claude Tag serves as Anthropic's first responder for CI/CD failures](https://claude.com/blog/ai-ci-cd-on-call) | 2026-08-18 | 1 skill + 3 agent + 1 guide |
 | [How ABC Legal turned every employee into a builder with Claude Managed Agents](https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents) | 2026-08-17 | 1 skill + 4 agent + 1 guide |
+| [Maximizing the value of your Claude Code sessions](https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions) | 2026-08-14 | 1 skill + 1 guide |
+| [Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5](https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5) | 2026-08-13 | 1 skill + 1 guide |
 | [Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad hoc questions](https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions) | 2026-08-13 | 1 skill + 1 guide |
 | [Claude Tag now reads even more of the room](https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room) | 2026-08-13 | 1 skill |
 | [The Claude in Chrome side panel is now Claude Cowork](https://claude.com/blog/cowork-chrome-side-panel) | 2026-08-12 | 1 skill + 1 guide |
