@@ -1028,6 +1028,16 @@
       "blog_slug": "2026.07.22_building-verification-loops-in-claude-code-with-skills",
       "processed_at": "2026-08-21T18:18:53Z",
       "source_date": "2026-07-22"
+    },
+    "https://claude.com/blog/ciso-guide-to-agentic-ai": {
+      "blog_slug": "2026.07.17_ciso-guide-to-agentic-ai",
+      "processed_at": "2026-08-21T22:26:47Z",
+      "source_date": "2026-07-17"
+    },
+    "https://claude.com/blog/claude-model-and-effort-level-in-claude-code": {
+      "blog_slug": "2026.07.07_claude-model-and-effort-level-in-claude-code",
+      "processed_at": "2026-08-21T22:26:47Z",
+      "source_date": "2026-07-07"
     }
   }
 }
