@@ -68,6 +68,8 @@ Claude 공식 블로그 글을 **글의 성격에 맞는 Claude Code 공식 규�
 
 | 블로그 글 | 게시일 | Artifacts |
 |---|---|---|
+| [The Claude Code guide for startups](https://claude.com/blog/claude-code-guide-for-startups) | 2026-08-20 | 1 skill + 4 agent + 1 guide |
+| [Build production agents with computer use, the Skills API, and the Files API](https://claude.com/blog/computer-use-skills-api-files-api) | 2026-08-20 | 1 skill + 1 guide |
 | [How monday.com transformed its platform into an agent-first product where humans and agents collaborate](https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate) | 2026-08-20 | 1 skill + 5 agent + 1 guide |
 | [Anthropic's approach to teaching and learning AI](https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai) | 2026-08-20 | 1 skill + 1 guide |
 | [Turning conversation into knowledge: how Slack builds human-agent teams](https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams) | 2026-08-19 | 1 skill + 1 guide |
