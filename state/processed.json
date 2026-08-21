@@ -988,6 +988,16 @@
       "blog_slug": "2026.08.20_computer-use-skills-api-files-api",
       "processed_at": "2026-08-21T02:20:04Z",
       "source_date": "2026-08-20"
+    },
+    "https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns": {
+      "blog_slug": "2026.07.06_a-field-guide-to-claude-fable-finding-your-unknowns",
+      "processed_at": "2026-08-21T06:18:07Z",
+      "source_date": "2026-07-06"
+    },
+    "https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude": {
+      "blog_slug": "2026.08.04_a-guide-to-cost-visibility-and-control-in-claude",
+      "processed_at": "2026-08-21T06:18:07Z",
+      "source_date": "2026-08-04"
     }
   }
 }
