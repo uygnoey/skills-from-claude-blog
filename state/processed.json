@@ -998,6 +998,16 @@
       "blog_slug": "2026.08.04_a-guide-to-cost-visibility-and-control-in-claude",
       "processed_at": "2026-08-21T06:18:07Z",
       "source_date": "2026-08-04"
+    },
+    "https://claude.com/blog/ai-code-migration": {
+      "blog_slug": "2026.07.16_ai-code-migration",
+      "processed_at": "2026-08-21T10:23:40Z",
+      "source_date": "2026-07-16"
+    },
+    "https://claude.com/blog/bringing-claude-code-and-claude-cowork-to-government": {
+      "blog_slug": "2026.07.07_bringing-claude-code-and-claude-cowork-to-government",
+      "processed_at": "2026-08-21T10:23:40Z",
+      "source_date": "2026-07-07"
     }
   }
 }
