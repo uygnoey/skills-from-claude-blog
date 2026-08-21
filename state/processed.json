@@ -1008,6 +1008,16 @@
       "blog_slug": "2026.07.07_bringing-claude-code-and-claude-cowork-to-government",
       "processed_at": "2026-08-21T10:23:40Z",
       "source_date": "2026-07-07"
+    },
+    "https://claude.com/blog/the-ai-native-sdlc-playbook": {
+      "blog_slug": "2026.08.21_the-ai-native-sdlc-playbook",
+      "processed_at": "2026-08-21T14:34:03Z",
+      "source_date": "2026-08-21"
+    },
+    "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude": {
+      "blog_slug": "2026.07.28_bringing-mcp-2026-07-28-to-claude",
+      "processed_at": "2026-08-21T14:34:03Z",
+      "source_date": "2026-07-28"
     }
   }
 }

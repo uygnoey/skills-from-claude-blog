@@ -1,0 +1,13 @@
+# Response tiers for the closing-the-loop play, kept in version control.
+#
+# Detection stays entirely deterministic — mean and standard deviation over a
+# rolling window with Western Electric (or similar) rules, so the bands catch
+# slow drift as well as spikes. No model is involved in detection. Claude is
+# invoked once a band is breached, and the tier sets what it may do.
+metric: ci_test_failure_rate
+baseline: rolling_30d
+rules: western_electric
+tiers:
+  1sigma: { action: log }
+  2sigma: { action: diagnose, tools: "Read,Grep,Bash(gh run view *)" }
+  3sigma: { action: propose, routes: [pull_request, runbook:rollback-deploy] }
