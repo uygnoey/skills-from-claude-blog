@@ -1018,6 +1018,16 @@
       "blog_slug": "2026.07.28_bringing-mcp-2026-07-28-to-claude",
       "processed_at": "2026-08-21T14:34:03Z",
       "source_date": "2026-07-28"
+    },
+    "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders": {
+      "blog_slug": "2026.08.21_bringing-claude-mythos-5-to-more-defenders",
+      "processed_at": "2026-08-21T18:18:53Z",
+      "source_date": "2026-08-21"
+    },
+    "https://claude.com/blog/building-verification-loops-in-claude-code-with-skills": {
+      "blog_slug": "2026.07.22_building-verification-loops-in-claude-code-with-skills",
+      "processed_at": "2026-08-21T18:18:53Z",
+      "source_date": "2026-07-22"
     }
   }
 }
