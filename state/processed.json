@@ -1058,6 +1058,16 @@
       "blog_slug": "2026.07.02_giving-admins-more-visibility-and-control-over-claude-usage-and-spend",
       "processed_at": "2026-08-22T06:19:43Z",
       "source_date": "2026-07-02"
+    },
+    "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle": {
+      "blog_slug": "2026.07.21_how-anthropic-secures-its-ai-native-software-development-lifecycle",
+      "processed_at": "2026-08-22T10:29:59Z",
+      "source_date": "2026-07-21"
+    },
+    "https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds": {
+      "blog_slug": "2026.07.08_how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds",
+      "processed_at": "2026-08-22T10:29:59Z",
+      "source_date": "2026-07-08"
     }
   }
 }

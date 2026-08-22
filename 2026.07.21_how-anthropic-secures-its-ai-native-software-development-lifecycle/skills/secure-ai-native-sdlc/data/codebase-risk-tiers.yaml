@@ -1,0 +1,67 @@
+# Codebase risk tiering — starting shape.
+#
+# The post states the practice ("we tier our codebase by risk, and make deliberate
+# decisions on what parts to automate") and the two endpoints (entire codebases keep
+# strict human approval; automated approvals are logged and a risk-weighted sample
+# is reviewed by humans). The specific tier names, paths, and rates below are
+# placeholders for a team to fill in — they are not Anthropic's published values.
+
+tiers:
+  - id: critical
+    description: >
+      Regulated or truly critical code. Human review is not delegated here.
+    paths: []                      # fill in
+    agent_review: required
+    agent_may_approve: false
+    human_approval: required
+    invariant_tests: required
+    human_sample_rate: 1.0
+
+  - id: elevated
+    description: >
+      Code handling authentication, authorization, secrets, payments, or
+      customer data boundaries.
+    paths: []                      # fill in
+    agent_review: required
+    agent_may_approve: false
+    human_approval: required
+    invariant_tests: required
+    human_sample_rate: 1.0
+
+  - id: standard
+    description: >
+      Product code with normal blast radius. Agentic review plus SAST; agents may
+      approve, with a risk-weighted human sample.
+    paths: []                      # fill in
+    agent_review: required
+    agent_may_approve: true
+    human_approval: sampled
+    invariant_tests: on_touch      # run when the change touches an invariant path
+    human_sample_rate: 0.2         # tune to the team's risk appetite
+
+  - id: low
+    description: >
+      Internal tooling, docs, fixtures. Lightest treatment.
+    paths: []                      # fill in
+    agent_review: required
+    agent_may_approve: true
+    human_approval: sampled
+    invariant_tests: off
+    human_sample_rate: 0.05
+
+# Invariants that trigger additional manual review when a change could break them.
+invariants:
+  - id: cross-tenant-read
+    statement: "User A can never read user B's data."
+    on_failure: manual_review
+
+# Every automated approval is logged with the signals and reasoning behind it and
+# routed to the SIEM, regardless of tier.
+logging:
+  destination: siem
+  record:
+    - approving_agent_identity
+    - signals_used
+    - reasoning
+    - risk_tier
+    - sampled_for_human_review
