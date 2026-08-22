@@ -93,6 +93,7 @@ Claude 公式ブログの記事を、**記事の性格に合わせた Claude Cod
 | [A Guide to Cost Visibility and Control in Claude](https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude) | 2026-08-04 | 1 skill + 1 guide |
 | [Bringing MCP 2026-07-28 to Claude](https://claude.com/blog/bringing-mcp-2026-07-28-to-claude) | 2026-07-28 | 1 skill + 1 guide |
 | [Claude models explained: choosing the best model for your use case](https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case) | 2026-07-24 | 1 skill + 2 agent + 1 guide |
+| [Four role-based certifications for the people who put Claude to work for customers](https://claude.com/blog/four-role-based-claude-certifications) | 2026-07-23 | 2 skill + 1 guide |
 | [Building verification loops in Claude Code with skills](https://claude.com/blog/building-verification-loops-in-claude-code-with-skills) | 2026-07-22 | 1 skill + 1 guide |
 | [Zero risk isn't the job: a CISO's guide to agentic AI](https://claude.com/blog/ciso-guide-to-agentic-ai) | 2026-07-17 | 1 skill + 2 agent + 1 guide |
 | [How Anthropic Runs Large-Scale Code Migrations with Claude Code](https://claude.com/blog/ai-code-migration) | 2026-07-16 | 1 skill + 5 agent + 1 guide |
@@ -100,6 +101,7 @@ Claude 公式ブログの記事を、**記事の性格に合わせた Claude Cod
 | [Choosing a Claude model and effort level in Claude Code](https://claude.com/blog/claude-model-and-effort-level-in-claude-code) | 2026-07-07 | 1 skill + 1 guide |
 | [Bringing Claude Code and Claude Cowork to government](https://claude.com/blog/bringing-claude-code-and-claude-cowork-to-government) | 2026-07-07 | 1 skill + 1 guide |
 | [A Field Guide to Claude Fable 5: Finding Your Unknowns](https://claude.com/blog/a-field-guide-to-claude-fable-finding-your-unknowns) | 2026-07-06 | 1 skill + 1 guide |
+| [Giving admins more visibility and control over Claude spend](https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend) | 2026-07-02 | 1 skill + 1 guide |
 | [Getting started with loops](https://claude.com/blog/getting-started-with-loops) | 2026-06-30 | 2 skill |
 | [Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud](https://claude.com/blog/introducing-the-claude-apps-gateway) | 2026-06-29 | 1 skill + 1 guide |
 | [Claude in Microsoft Foundry is now generally available](https://claude.com/blog/claude-in-microsoft-foundry) | 2026-06-29 | 1 skill |
