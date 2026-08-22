@@ -1,0 +1,35 @@
+[English](./description.en.md) · [한국어](./description.ko.md) · **Español** · [日本語](./description.ja.md)
+
+## ¿De qué trata este post?
+Outtake, fundada en 2023 por Alex Dhillon (antes en el equipo de proyectos moonshot de Palantir), construyó un investigador cibernético autónomo llamado **Recon Agent**: primero prototipado en Claude Code y luego llevado al Claude Agent SDK para producción. Detecta, investiga y desmantela amenazas digitales a lo largo de redes de ataque completas, y escaneó más de 20 millones de posibles ciberataques en 2025.
+
+Dhillon plantea el problema desde el lado del atacante: "Si te pones el sombrero del actor malicioso, en realidad es un gran momento para lanzar ataques. El ataque medio no solo se ejecuta más rápido gracias a la IA, sino que además consigue un acceso más profundo gracias a la IA." Los ataques transcurren en tres etapas —convertir datos públicos en arma, construir suplantaciones como señuelo y explotar sistemas internos—, y las herramientas tradicionales abordan cada etapa por separado. El Recon Agent, en cambio, cartografía toda la red adversaria: a partir de una única página de acceso clonada reúne y clasifica evidencia, sigue las pistas hasta infraestructura conectada —como una cuenta falsa de Telegram que se presenta como "Atención al cliente"— y produce un informe de investigación con perfiles de actores y una cronología del ataque. Lee, escribe y ejecuta código, e interactúa directamente con páginas de acceso maliciosas para rastrear adónde van las credenciales robadas. La mediana de duración de sesión es de 16 minutos; las sesiones llegan a la hora con frecuencia y la más larga observada fue de dos.
+
+La mayor parte del post son lecciones de ingeniería de Jack Hayford, responsable de ingeniería: un proceso de desarrollo en cuatro etapas y cuatro aprendizajes costosos sobre agentes de larga duración: sobre las herramientas, sobre por qué los prompts dejan de funcionar, sobre las evaluaciones como instrumento de velocidad y sobre cómo defender a un agente al que envías deliberadamente a entornos hostiles.
+
+## ¿Cuándo es útil?
+- Cuando construyes un agente cuyas sesiones duran de decenas de minutos a horas, donde la compactación de contexto y la deriva son reales y no teóricas.
+- Cuando hay que decidir si quedarse en Claude Code o graduarse al Claude Agent SDK, y qué se gana con el cambio.
+- Cuando un agente sigue ignorando una instrucción de su prompt de sistema por mucho que se reformule.
+- Cuando hay que decidir qué herramientas necesita un agente, y si una herramienta hecha a medida supera a un sistema de archivos y bash.
+- Cuando no puedes saber si un cambio en el agente ayudó, porque revisar transcripciones de 30 minutos a mano no escala.
+- Cuando un agente debe operar en un entorno activamente hostil, incluidas páginas construidas para inyectarle prompts.
+
+## Puntos clave
+- **Conviértete en experto antes de construir.** El equipo realizó investigaciones reales por su cuenta y extrajo experiencia de dominio de clientes y socios de diseño. Hayford: "Lo más importante al construir agentes de larga duración es que realmente tienes que entender *¿cómo es lo bueno? ¿Qué se supone que debe hacer el agente?*"
+- **Prototipa en Claude Code y gradúate de forma deliberada.** Los marcos de agentes tradicionales no tenían suficiente capacidad de programación: "Cada investigación es distinta y profundamente técnica. El agente necesitaba músculo y capacidad de programación, y Claude Code fue un arnés inicial sólido." Producción exigía primitivas de más bajo nivel —"Nos gustaban mucho los patrones que había introducido Claude Code, pero necesitábamos acceso adicional a las primitivas de más bajo nivel"—, así que el equipo pasó al Agent SDK para controlar mejor la memoria, el contexto y el sistema de archivos sin reconstruir el bucle del agente.
+- **Restringe la orquestación, no el juicio.** Especifica con rigor lo que siempre ocurre (X, luego Y, luego Z) y deja espacio de improvisación donde el trabajo exige criterio.
+- **Un sistema de archivos y bash llegan sorprendentemente lejos.** El sistema de archivos da una memoria que sobrevive a la compactación del contexto; bash permite al agente rodear los obstáculos. "Hemos visto muchos casos en los que una herramienta fallaba por un problema de red o lo que fuera, y el agente simplemente encontraba el rodeo adecuado y continuaba."
+- **Los prompts son sugerencias.** "Cuando construyes estos agentes de larga duración que se complican con el tiempo, los prompts son sugerencias. Probablemente cada palabra de ese prompt acabará siendo ignorada." Los requisitos de comportamiento salen del prompt y pasan a barreras codificadas en la capa de orquestación, lo que además preserva contexto para el trabajo de alto criterio.
+- **Las evaluaciones son para la velocidad, no solo para la fiabilidad.** Leer a mano transcripciones de 30 minutos no escala. Las evaluaciones convierten la reflexión en comprobaciones estructuradas y puntuadas: "Construir alguna versión de evaluaciones desde el principio hará que construyas ese agente más rápido, por poco oficiales o 'perfectas' que sean."
+- **Un segundo agente cierra la brecha de herramientas.** Cuando el Recon Agent termina una investigación e informa de que lo habría hecho mejor con una herramienta que no tenía, un agente de programación aparte lee esas sugerencias, escribe la nueva herramienta y construye un escenario de prueba para probarla; las personas solo evalúan el resultado final.
+- **Supón que el agente puede ser secuestrado y contén el daño.** "La seguridad es un punto importante para nosotros al construir el Recon Agent. Le dimos un sistema de archivos y bash y lo estamos enviando a entornos adversarios." Outtake puntúa la confianza justo en el punto en que el agente sale a internet, con un control que pregunta: "¿Es esta página una suplantación? ¿Es malware? ¿Está intentando inyectarle un prompt al agente ahora mismo?"
+
+## Recursos incluidos
+- `skills/long-running-agent-development/` — el proceso de construcción en cuatro etapas y los cuatro aprendizajes como método de trabajo, con referencias sobre la decisión de arnés y sobre la contención, una plantilla para la definición de "¿cómo es lo bueno?" que condiciona cada iteración, y un ejemplo que recorre el bucle de investigación del Recon Agent.
+- `agents/recon-investigator.md` — el agente de investigación de larga duración: reunir y clasificar evidencia, seguir pistas hasta infraestructura conectada, cartografiar la red adversaria como grafo e informar con perfiles de actores y una cronología del ataque.
+- `agents/tool-gap-builder.md` — el agente de programación aparte que lee las sugerencias de herramientas de una investigación, escribe la herramienta que falta y construye un escenario de prueba para ella.
+- `guides/building-long-running-agents.{en,ko,es,ja}.md` — el recorrido completo en cuatro idiomas.
+
+## Fuente
+[How Outtake built a cyber investigator on Claude](https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude) — Michael Segner, 22 de julio de 2026

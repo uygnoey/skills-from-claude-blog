@@ -1068,6 +1068,16 @@
       "blog_slug": "2026.07.08_how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds",
       "processed_at": "2026-08-22T10:29:59Z",
       "source_date": "2026-07-08"
+    },
+    "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code": {
+      "blog_slug": "2026.07.21_how-datadog-built-a-universal-machine-tool-for-claude-code",
+      "processed_at": "2026-08-22T14:22:12Z",
+      "source_date": "2026-07-21"
+    },
+    "https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude": {
+      "blog_slug": "2026.07.22_how-outtake-built-a-cyber-investigator-on-claude",
+      "processed_at": "2026-08-22T14:22:12Z",
+      "source_date": "2026-07-22"
     }
   }
 }

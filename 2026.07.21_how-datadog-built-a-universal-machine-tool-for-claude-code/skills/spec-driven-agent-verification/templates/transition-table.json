@@ -1,0 +1,75 @@
+{
+  "capability": "example-account-lifecycle",
+  "_comment": "Scaffold for making an implicit state machine explicit and data-driven. Field names follow the three contracts described in Datadog's Temper: behavior, data, authorization. Replace every example value.",
+
+  "behavior": {
+    "initial_state": "invited",
+    "states": ["invited", "active", "suspended", "closed"],
+    "transitions": [
+      {
+        "name": "accept_invite",
+        "from": "invited",
+        "to": "active",
+        "precondition": "invite_token_valid AND NOT invite_expired"
+      },
+      {
+        "name": "suspend",
+        "from": "active",
+        "to": "suspended",
+        "precondition": "suspension_reason_present"
+      },
+      {
+        "name": "reinstate",
+        "from": "suspended",
+        "to": "active",
+        "precondition": "suspension_cleared"
+      },
+      {
+        "name": "close",
+        "from": "active",
+        "to": "closed",
+        "precondition": "no_outstanding_balance"
+      }
+    ],
+    "safety_properties": [
+      {
+        "name": "no_resurrection",
+        "statement": "state == 'closed' implies no transition leaves 'closed'"
+      },
+      {
+        "name": "suspended_cannot_act",
+        "statement": "state == 'suspended' implies no privileged action is authorized"
+      }
+    ]
+  },
+
+  "data_contract": {
+    "entity_types": [
+      {
+        "name": "Account",
+        "properties": [
+          { "name": "id", "type": "string", "required": true },
+          { "name": "state", "type": "enum<states>", "required": true },
+          { "name": "suspension_reason", "type": "string", "required": false },
+          { "name": "outstanding_balance", "type": "integer", "required": true }
+        ]
+      }
+    ],
+    "actions": [
+      { "name": "accept_invite", "input": ["Account.id", "invite_token"], "drives": "accept_invite" },
+      { "name": "suspend", "input": ["Account.id", "suspension_reason"], "drives": "suspend" },
+      { "name": "reinstate", "input": ["Account.id"], "drives": "reinstate" },
+      { "name": "close", "input": ["Account.id"], "drives": "close" }
+    ]
+  },
+
+  "authorization": {
+    "posture": "default-deny",
+    "scopes": [
+      { "name": "account:self", "grants": ["accept_invite", "close"], "granted_to": ["account-owner"] },
+      { "name": "account:moderate", "grants": ["suspend", "reinstate"], "granted_to": ["trust-and-safety"] }
+    ],
+    "pending_decisions": [],
+    "hot_load": true
+  }
+}

@@ -95,7 +95,9 @@ Cada artefacto puede copiarse tal cual a tu proyecto.
 | [Bringing MCP 2026-07-28 to Claude](https://claude.com/blog/bringing-mcp-2026-07-28-to-claude) | 2026-07-28 | 1 skill + 1 guide |
 | [Claude models explained: choosing the best model for your use case](https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case) | 2026-07-24 | 1 skill + 2 agent + 1 guide |
 | [Four role-based certifications for the people who put Claude to work for customers](https://claude.com/blog/four-role-based-claude-certifications) | 2026-07-23 | 2 skill + 1 guide |
+| [How Outtake built a cyber investigator on Claude](https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude) | 2026-07-22 | 1 skill + 2 agent + 1 guide |
 | [Building verification loops in Claude Code with skills](https://claude.com/blog/building-verification-loops-in-claude-code-with-skills) | 2026-07-22 | 1 skill + 1 guide |
+| [How Datadog built a "universal machine tool" for Claude Code](https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code) | 2026-07-21 | 1 skill + 1 guide |
 | [How Anthropic secures its AI-native software development lifecycle](https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle) | 2026-07-21 | 1 skill + 2 agent + 1 hook + 1 guide |
 | [Zero risk isn't the job: a CISO's guide to agentic AI](https://claude.com/blog/ciso-guide-to-agentic-ai) | 2026-07-17 | 1 skill + 2 agent + 1 guide |
 | [How Anthropic Runs Large-Scale Code Migrations with Claude Code](https://claude.com/blog/ai-code-migration) | 2026-07-16 | 1 skill + 5 agent + 1 guide |
