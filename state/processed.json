@@ -1088,6 +1088,16 @@
       "blog_slug": "2026.07.24_how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them",
       "processed_at": "2026-08-22T18:21:22Z",
       "source_date": "2026-07-24"
+    },
+    "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models": {
+      "blog_slug": "2026.07.24_the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "processed_at": "2026-08-22T22:15:21Z",
+      "source_date": "2026-07-24"
+    },
+    "https://claude.com/blog/think-through-hard-problems-in-voice-mode": {
+      "blog_slug": "2026.07.23_think-through-hard-problems-in-voice-mode",
+      "processed_at": "2026-08-22T22:15:21Z",
+      "source_date": "2026-07-23"
     }
   }
 }
