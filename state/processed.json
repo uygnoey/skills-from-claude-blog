@@ -1,7 +1,7 @@
 {
   "description": "Map of processed blog URLs -> { blog_slug, processed_at, source_date }",
   "meta": {
-    "last_run_at": "2026-08-21"
+    "last_run_at": "2026-08-22"
   },
   "entries": {
     "https://claude.com/blog/using-claude-md-files": {
@@ -1037,6 +1037,16 @@
     "https://claude.com/blog/claude-model-and-effort-level-in-claude-code": {
       "blog_slug": "2026.07.07_claude-model-and-effort-level-in-claude-code",
       "processed_at": "2026-08-21T22:26:47Z",
+      "source_date": "2026-07-07"
+    },
+    "https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case": {
+      "blog_slug": "2026.07.24_claude-models-explained-choosing-the-best-model-for-your-use-case",
+      "processed_at": "2026-08-22T02:19:17Z",
+      "source_date": "2026-07-24"
+    },
+    "https://claude.com/blog/cowork-web-mobile": {
+      "blog_slug": "2026.07.07_cowork-web-mobile",
+      "processed_at": "2026-08-22T02:19:17Z",
       "source_date": "2026-07-07"
     }
   }
