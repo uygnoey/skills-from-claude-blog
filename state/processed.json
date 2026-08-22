@@ -1078,6 +1078,16 @@
       "blog_slug": "2026.07.22_how-outtake-built-a-cyber-investigator-on-claude",
       "processed_at": "2026-08-22T14:22:12Z",
       "source_date": "2026-07-22"
+    },
+    "https://claude.com/blog/how-people-are-using-claude-cowork": {
+      "blog_slug": "2026.07.07_how-people-are-using-claude-cowork",
+      "processed_at": "2026-08-22T18:21:22Z",
+      "source_date": "2026-07-07"
+    },
+    "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them": {
+      "blog_slug": "2026.07.24_how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them",
+      "processed_at": "2026-08-22T18:21:22Z",
+      "source_date": "2026-07-24"
     }
   }
 }

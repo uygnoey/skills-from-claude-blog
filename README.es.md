@@ -93,6 +93,7 @@ Cada artefacto puede copiarse tal cual a tu proyecto.
 | [Inference hooks: inline data loss prevention for Claude Enterprise](https://claude.com/blog/claude-enterprise-inference-hooks) | 2026-08-05 | 1 skill + 1 guide |
 | [A Guide to Cost Visibility and Control in Claude](https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude) | 2026-08-04 | 1 skill + 1 guide |
 | [Bringing MCP 2026-07-28 to Claude](https://claude.com/blog/bringing-mcp-2026-07-28-to-claude) | 2026-07-28 | 1 skill + 1 guide |
+| [How the product designer who built Claude Design uses it to explore ideas before building them](https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them) | 2026-07-24 | 1 skill + 1 guide |
 | [Claude models explained: choosing the best model for your use case](https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case) | 2026-07-24 | 1 skill + 2 agent + 1 guide |
 | [Four role-based certifications for the people who put Claude to work for customers](https://claude.com/blog/four-role-based-claude-certifications) | 2026-07-23 | 2 skill + 1 guide |
 | [How Outtake built a cyber investigator on Claude](https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude) | 2026-07-22 | 1 skill + 2 agent + 1 guide |
@@ -102,6 +103,7 @@ Cada artefacto puede copiarse tal cual a tu proyecto.
 | [Zero risk isn't the job: a CISO's guide to agentic AI](https://claude.com/blog/ciso-guide-to-agentic-ai) | 2026-07-17 | 1 skill + 2 agent + 1 guide |
 | [How Anthropic Runs Large-Scale Code Migrations with Claude Code](https://claude.com/blog/ai-code-migration) | 2026-07-16 | 1 skill + 5 agent + 1 guide |
 | [How Anthropic's marketing operations team uses Claude Cowork to automate reporting and campaign builds](https://claude.com/blog/how-anthropics-marketing-operations-team-uses-claude-cowork-to-automate-reporting-and-campaign-builds) | 2026-07-08 | 4 skill + 2 agent + 1 guide |
+| [How people are using Claude Cowork](https://claude.com/blog/how-people-are-using-claude-cowork) | 2026-07-07 | 1 skill + 1 guide |
 | [Claude Cowork is coming to mobile and web](https://claude.com/blog/cowork-web-mobile) | 2026-07-07 | 1 skill + 1 guide |
 | [Choosing a Claude model and effort level in Claude Code](https://claude.com/blog/claude-model-and-effort-level-in-claude-code) | 2026-07-07 | 1 skill + 1 guide |
 | [Bringing Claude Code and Claude Cowork to government](https://claude.com/blog/bringing-claude-code-and-claude-cowork-to-government) | 2026-07-07 | 1 skill + 1 guide |
