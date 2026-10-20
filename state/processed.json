@@ -1203,6 +1203,16 @@
       "blog_slug": "2026.09.24_claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
       "processed_at": "2026-10-20T18:16:44Z",
       "source_date": "2026-09-24"
+    },
+    "https://claude.com/resources/articles/giving-companies-more-control-over-their-ai-agents-with-nvidia": {
+      "blog_slug": "2026.09.28_giving-companies-more-control-over-their-ai-agents-with-nvidia",
+      "processed_at": "2026-10-20T22:15:51Z",
+      "source_date": "2026-09-28"
+    },
+    "https://claude.com/resources/articles/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude": {
+      "blog_slug": "2026.09.29_agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude",
+      "processed_at": "2026-10-20T22:15:51Z",
+      "source_date": "2026-09-29"
     }
   }
 }
