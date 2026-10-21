@@ -1243,6 +1243,16 @@
       "blog_slug": "2026.10.06_were-expanding-the-claude-startups-program-to-help-founders-build",
       "processed_at": "2026-10-21T10:14:54Z",
       "source_date": "2026-10-06"
+    },
+    "https://claude.com/resources/articles/dashboards-and-motion": {
+      "blog_slug": "2026.10.08_dashboards-and-motion",
+      "processed_at": "2026-10-21T14:15:59Z",
+      "source_date": "2026-10-08"
+    },
+    "https://claude.com/resources/articles/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests": {
+      "blog_slug": "2026.10.08_how-block-orchestrates-claude-fable-across-thousands-of-pull-requests",
+      "processed_at": "2026-10-21T14:15:59Z",
+      "source_date": "2026-10-08"
     }
   }
 }

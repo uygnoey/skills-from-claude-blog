@@ -70,6 +70,8 @@ Claude 공식 블로그 글을 **글의 성격에 맞는 Claude Code 공식 규�
 |---|---|---|
 | [How an Anthropic BDR in Japan runs his day with Claude Managed Agents](https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day) | 2026-10-16 | 1 skill + 6 agent + 1 guide |
 | [Code Review is now generally available](https://claude.com/resources/articles/code-review-is-now-generally-available) | 2026-10-15 | 1 skill |
+| [Build live dashboards and animate explainers with Claude](https://claude.com/resources/articles/dashboards-and-motion) | 2026-10-08 | 1 skill + 1 guide |
+| [How Block orchestrates Claude Fable across thousands of pull requests](https://claude.com/resources/articles/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests) | 2026-10-08 | 1 skill + 2 agent + 1 guide |
 | [Claude now works with Google Docs, Sheets, and Slides](https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides) | 2026-10-06 | 1 skill + 1 guide |
 | [We're expanding the Claude Startups program to help founders build](https://claude.com/resources/articles/were-expanding-the-claude-startups-program-to-help-founders-build) | 2026-10-06 | 1 skill |
 | [How Comcast and Booz Allen use Claude Mythos to find exploit chains and secure their codebases](https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases) | 2026-10-06 | 1 skill |
