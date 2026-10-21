@@ -69,6 +69,8 @@ Claude 공식 블로그 글을 **글의 성격에 맞는 Claude Code 공식 규�
 | 블로그 글 | 게시일 | Artifacts |
 |---|---|---|
 | [How an Anthropic BDR in Japan runs his day with Claude Managed Agents](https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day) | 2026-10-16 | 1 skill + 6 agent + 1 guide |
+| [Agent observability on the Claude Platform](https://claude.com/resources/articles/agent-observability-on-the-claude-platform) | 2026-10-14 | 1 skill |
+| [Uber's CISO on building an insider threat program for AI](https://claude.com/resources/articles/uber-s-ciso-on-building-an-insider-threat-program-for-ai) | 2026-10-13 | 1 skill + 1 guide |
 | [Code Review is now generally available](https://claude.com/resources/articles/code-review-is-now-generally-available) | 2026-10-15 | 1 skill |
 | [Build live dashboards and animate explainers with Claude](https://claude.com/resources/articles/dashboards-and-motion) | 2026-10-08 | 1 skill + 1 guide |
 | [How Block orchestrates Claude Fable across thousands of pull requests](https://claude.com/resources/articles/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests) | 2026-10-08 | 1 skill + 2 agent + 1 guide |
