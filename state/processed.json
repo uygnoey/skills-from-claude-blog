@@ -1223,6 +1223,16 @@
       "blog_slug": "2026.10.01_claude-code-mods",
       "processed_at": "2026-10-21T02:14:43Z",
       "source_date": "2026-10-01"
+    },
+    "https://claude.com/resources/articles/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk": {
+      "blog_slug": "2026.10.05_how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk",
+      "processed_at": "2026-10-21T06:14:13Z",
+      "source_date": "2026-10-05"
+    },
+    "https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases": {
+      "blog_slug": "2026.10.06_how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases",
+      "processed_at": "2026-10-21T06:14:13Z",
+      "source_date": "2026-10-06"
     }
   }
 }

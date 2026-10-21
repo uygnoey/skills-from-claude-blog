@@ -70,6 +70,8 @@ Claude 公式ブログの記事を、**記事の性格に合わせた Claude Cod
 |---|---|---|
 | [How an Anthropic BDR in Japan runs his day with Claude Managed Agents](https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day) | 2026-10-16 | 1 skill + 6 agent + 1 guide |
 | [Code Review is now generally available](https://claude.com/resources/articles/code-review-is-now-generally-available) | 2026-10-15 | 1 skill |
+| [How Comcast and Booz Allen use Claude Mythos to find exploit chains and secure their codebases](https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases) | 2026-10-06 | 1 skill |
+| [How Cresta turned CX expertise into an agent builder on the Claude Agent SDK](https://claude.com/resources/articles/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk) | 2026-10-05 | 1 skill |
 | [Customize Claude Code with mods](https://claude.com/resources/articles/claude-code-mods) | 2026-10-01 | 1 skill |
 | [Claude for Government is now generally available](https://claude.com/resources/articles/claude-for-government-is-now-generally-available) | 2026-09-30 | 1 skill |
 | [Agents you can coach: how Asana builds human-agent teams with Claude](https://claude.com/resources/articles/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude) | 2026-09-29 | 1 skill + 1 guide |
@@ -80,8 +82,8 @@ Claude 公式ブログの記事を、**記事の性格に合わせた Claude Cod
 | [Building commerce agents with Claude](https://claude.com/blog/claude-for-commerce-agents) | 2026-09-02 | 1 skill + 2 agent |
 | [How Anthropic employees use Claude Tag](https://claude.com/blog/how-anthropic-employees-use-claude-tag) | 2026-08-28 | 1 skill + 1 guide |
 | [Claude for Teachers is now available for schools and districts](https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts) | 2026-08-28 | 1 skill + 1 guide |
-| [Claude gets its own browser in Cowork](https://claude.com/blog/cowork-built-in-browser) | 2026-08-26 | 1 skill + 1 guide |
 | [How Warp builds self-improving agents on Claude](https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude) | 2026-08-26 | 1 skill + 2 agent + 1 guide |
+| [Claude gets its own browser in Cowork](https://claude.com/blog/cowork-built-in-browser) | 2026-08-26 | 1 skill + 1 guide |
 | [Claude in Chrome is generally available](https://claude.com/blog/claude-in-chrome-generally-available) | 2026-08-26 | 1 skill + 1 guide |
 | [Claude's memory works everywhere, and you decide what's in it](https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it) | 2026-08-25 | 1 skill + 1 guide |
 | [Bain & Company joins the Claude Partner Network as a Global Premier partner](https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner) | 2026-08-25 | 1 skill + 1 guide |
