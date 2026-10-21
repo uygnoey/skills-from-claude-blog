@@ -1,7 +1,7 @@
 {
   "description": "Map of processed blog URLs -> { blog_slug, processed_at, source_date }",
   "meta": {
-    "last_run_at": "2026-10-20"
+    "last_run_at": "2026-10-21"
   },
   "entries": {
     "https://claude.com/blog/using-claude-md-files": {
@@ -1213,6 +1213,16 @@
       "blog_slug": "2026.09.29_agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude",
       "processed_at": "2026-10-20T22:15:51Z",
       "source_date": "2026-09-29"
+    },
+    "https://claude.com/resources/articles/claude-for-government-is-now-generally-available": {
+      "blog_slug": "2026.09.30_claude-for-government-is-now-generally-available",
+      "processed_at": "2026-10-21T02:14:43Z",
+      "source_date": "2026-09-30"
+    },
+    "https://claude.com/resources/articles/claude-code-mods": {
+      "blog_slug": "2026.10.01_claude-code-mods",
+      "processed_at": "2026-10-21T02:14:43Z",
+      "source_date": "2026-10-01"
     }
   }
 }
