@@ -69,6 +69,8 @@ Each artifact can be copied into a project as-is.
 
 | Blog post | Published | Artifacts |
 |---|---|---|
+| [Introducing Claude Duet](https://claude.com/resources/articles/claude-duet) | 2026-10-21 | 1 skill |
+| [HCLTech joins the Claude Partner Network as a Global Premier partner](https://claude.com/resources/articles/hcltech-joins-claude-partner-network) | 2026-10-21 | 1 skill |
 | [How an Anthropic BDR in Japan runs his day with Claude Managed Agents](https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day) | 2026-10-16 | 1 skill + 6 agent + 1 guide |
 | [Agent observability on the Claude Platform](https://claude.com/resources/articles/agent-observability-on-the-claude-platform) | 2026-10-14 | 1 skill |
 | [Uber's CISO on building an insider threat program for AI](https://claude.com/resources/articles/uber-s-ciso-on-building-an-insider-threat-program-for-ai) | 2026-10-13 | 1 skill + 1 guide |

@@ -1263,6 +1263,16 @@
       "blog_slug": "2026.10.14_agent-observability-on-the-claude-platform",
       "processed_at": "2026-10-21T18:14:44Z",
       "source_date": "2026-10-14"
+    },
+    "https://claude.com/resources/articles/claude-duet": {
+      "blog_slug": "2026.10.21_claude-duet",
+      "processed_at": "2026-10-21T22:15:00Z",
+      "source_date": "2026-10-21"
+    },
+    "https://claude.com/resources/articles/hcltech-joins-claude-partner-network": {
+      "blog_slug": "2026.10.21_hcltech-joins-claude-partner-network",
+      "processed_at": "2026-10-21T22:15:00Z",
+      "source_date": "2026-10-21"
     }
   }
 }
