@@ -86,7 +86,9 @@ Claude 公式ブログの記事を、**記事の性格に合わせた Claude Cod
 | [Agents you can coach: how Asana builds human-agent teams with Claude](https://claude.com/resources/articles/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude) | 2026-09-29 | 1 skill + 1 guide |
 | [Giving companies more control over their AI agents, with NVIDIA](https://claude.com/resources/articles/giving-companies-more-control-over-their-ai-agents-with-nvidia) | 2026-09-28 | 1 skill |
 | [Build plugins for Claude](https://claude.com/resources/articles/build-plugins-for-claude) | 2026-09-25 | 1 skill |
+| [Claude Tag now supports personal connectors in channels](https://claude.com/resources/articles/claude-tag-now-supports-personal-connectors-in-channels) | 2026-09-24 | 1 skill |
 | [Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.](https://claude.com/resources/articles/claude-opus-5-5-built-for-coding-sessions-that-use-more-context) | 2026-09-24 | 1 skill |
+| [Claude Marketplace: one place to discover plugins, agents, and services from our partners](https://claude.com/resources/articles/claude-marketplace) | 2026-09-23 | 1 skill |
 | [How to prepare for AI-driven code modernization projects](https://claude.com/resources/articles/how-to-prepare-for-ai-driven-code-modernization-projects) | 2026-09-23 | 1 skill + 1 guide |
 | [Claude for Small Business launches new workflows, integrations, and training programs](https://claude.com/resources/articles/claude-for-small-business-launches-new-workflows-integrations-and-training-programs) | 2026-09-15 | 1 skill |
 | [Building an AI-native revenue organization](https://claude.com/resources/articles/building-an-ai-native-revenue-organization) | 2026-09-15 | 1 skill + 1 guide |
