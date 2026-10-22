@@ -1283,6 +1283,16 @@
       "blog_slug": "2026.09.14_agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
       "processed_at": "2026-10-22T02:15:52Z",
       "source_date": "2026-09-14"
+    },
+    "https://claude.com/resources/articles/build-plugins-for-claude": {
+      "blog_slug": "2026.09.25_build-plugins-for-claude",
+      "processed_at": "2026-10-22T06:15:57Z",
+      "source_date": "2026-09-25"
+    },
+    "https://claude.com/resources/articles/building-an-ai-native-revenue-organization": {
+      "blog_slug": "2026.09.15_building-an-ai-native-revenue-organization",
+      "processed_at": "2026-10-22T06:15:57Z",
+      "source_date": "2026-09-15"
     }
   }
 }
