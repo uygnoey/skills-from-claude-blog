@@ -1313,6 +1313,16 @@
       "blog_slug": "2026.09.24_claude-tag-now-supports-personal-connectors-in-channels",
       "processed_at": "2026-10-22T14:13:42Z",
       "source_date": "2026-09-24"
+    },
+    "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop": {
+      "blog_slug": "2026.10.22_building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+      "processed_at": "2026-10-22T18:15:06Z",
+      "source_date": "2026-10-22"
+    },
+    "https://claude.com/resources/articles/cowork-is-now-claude": {
+      "blog_slug": "2026.09.16_cowork-is-now-claude",
+      "processed_at": "2026-10-22T18:15:07Z",
+      "source_date": "2026-09-16"
     }
   }
 }
