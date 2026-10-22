@@ -1293,6 +1293,16 @@
       "blog_slug": "2026.09.15_building-an-ai-native-revenue-organization",
       "processed_at": "2026-10-22T06:15:57Z",
       "source_date": "2026-09-15"
+    },
+    "https://claude.com/resources/articles/claude-for-financial-advisors": {
+      "blog_slug": "2026.09.14_claude-for-financial-advisors",
+      "processed_at": "2026-10-22T10:15:19Z",
+      "source_date": "2026-09-14"
+    },
+    "https://claude.com/resources/articles/claude-for-small-business-launches-new-workflows-integrations-and-training-programs": {
+      "blog_slug": "2026.09.15_claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
+      "processed_at": "2026-10-22T10:15:19Z",
+      "source_date": "2026-09-15"
     }
   }
 }
