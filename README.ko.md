@@ -68,17 +68,18 @@ Claude 공식 블로그 글을 **글의 성격에 맞는 Claude Code 공식 규�
 
 | 블로그 글 | 게시일 | Artifacts |
 |---|---|---|
-| [Introducing Claude Duet](https://claude.com/resources/articles/claude-duet) | 2026-10-21 | 1 skill |
 | [HCLTech joins the Claude Partner Network as a Global Premier partner](https://claude.com/resources/articles/hcltech-joins-claude-partner-network) | 2026-10-21 | 1 skill |
+| [Claude Security now scans continuously and tracks fixes](https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes) | 2026-10-21 | 1 skill |
+| [Introducing Claude Duet](https://claude.com/resources/articles/claude-duet) | 2026-10-21 | 1 skill |
 | [How an Anthropic BDR in Japan runs his day with Claude Managed Agents](https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day) | 2026-10-16 | 1 skill + 6 agent + 1 guide |
+| [Code Review is now generally available](https://claude.com/resources/articles/code-review-is-now-generally-available) | 2026-10-15 | 1 skill |
 | [Agent observability on the Claude Platform](https://claude.com/resources/articles/agent-observability-on-the-claude-platform) | 2026-10-14 | 1 skill |
 | [Uber's CISO on building an insider threat program for AI](https://claude.com/resources/articles/uber-s-ciso-on-building-an-insider-threat-program-for-ai) | 2026-10-13 | 1 skill + 1 guide |
-| [Code Review is now generally available](https://claude.com/resources/articles/code-review-is-now-generally-available) | 2026-10-15 | 1 skill |
-| [Build live dashboards and animate explainers with Claude](https://claude.com/resources/articles/dashboards-and-motion) | 2026-10-08 | 1 skill + 1 guide |
 | [How Block orchestrates Claude Fable across thousands of pull requests](https://claude.com/resources/articles/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests) | 2026-10-08 | 1 skill + 2 agent + 1 guide |
-| [Claude now works with Google Docs, Sheets, and Slides](https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides) | 2026-10-06 | 1 skill + 1 guide |
+| [Build live dashboards and animate explainers with Claude](https://claude.com/resources/articles/dashboards-and-motion) | 2026-10-08 | 1 skill + 1 guide |
 | [We're expanding the Claude Startups program to help founders build](https://claude.com/resources/articles/were-expanding-the-claude-startups-program-to-help-founders-build) | 2026-10-06 | 1 skill |
 | [How Comcast and Booz Allen use Claude Mythos to find exploit chains and secure their codebases](https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases) | 2026-10-06 | 1 skill |
+| [Claude now works with Google Docs, Sheets, and Slides](https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides) | 2026-10-06 | 1 skill + 1 guide |
 | [How Cresta turned CX expertise into an agent builder on the Claude Agent SDK](https://claude.com/resources/articles/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk) | 2026-10-05 | 1 skill |
 | [Customize Claude Code with mods](https://claude.com/resources/articles/claude-code-mods) | 2026-10-01 | 1 skill |
 | [Claude for Government is now generally available](https://claude.com/resources/articles/claude-for-government-is-now-generally-available) | 2026-09-30 | 1 skill |
@@ -86,6 +87,7 @@ Claude 공식 블로그 글을 **글의 성격에 맞는 Claude Code 공식 규�
 | [Giving companies more control over their AI agents, with NVIDIA](https://claude.com/resources/articles/giving-companies-more-control-over-their-ai-agents-with-nvidia) | 2026-09-28 | 1 skill |
 | [Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.](https://claude.com/resources/articles/claude-opus-5-5-built-for-coding-sessions-that-use-more-context) | 2026-09-24 | 1 skill |
 | [How to prepare for AI-driven code modernization projects](https://claude.com/resources/articles/how-to-prepare-for-ai-driven-code-modernization-projects) | 2026-09-23 | 1 skill + 1 guide |
+| [Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic](https://claude.com/resources/articles/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic) | 2026-09-14 | 1 skill + 1 guide |
 | [A guide to the anatomy of effective commerce agents](https://claude.com/blog/the-anatomy-of-effective-commerce-agents) | 2026-09-02 | 5 skill + 1 guide |
 | [Building commerce agents with Claude](https://claude.com/blog/claude-for-commerce-agents) | 2026-09-02 | 1 skill + 2 agent |
 | [How Anthropic employees use Claude Tag](https://claude.com/blog/how-anthropic-employees-use-claude-tag) | 2026-08-28 | 1 skill + 1 guide |
