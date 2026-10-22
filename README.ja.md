@@ -68,6 +68,7 @@ Claude 公式ブログの記事を、**記事の性格に合わせた Claude Cod
 
 | ブログ記事 | 公開日 | 成果物 |
 |---|---|---|
+| [Claude Platform is now available on Google Cloud](https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed) | 2026-10-22 | 1 skill |
 | [Building agents: When to fold subagents into your main agent loop](https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop) | 2026-10-22 | 1 skill + 1 guide |
 | [HCLTech joins the Claude Partner Network as a Global Premier partner](https://claude.com/resources/articles/hcltech-joins-claude-partner-network) | 2026-10-21 | 1 skill |
 | [Claude Security now scans continuously and tracks fixes](https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes) | 2026-10-21 | 1 skill |
@@ -94,6 +95,7 @@ Claude 公式ブログの記事を、**記事の性格に合わせた Claude Cod
 | [Claude Cowork and chat are now one Claude](https://claude.com/resources/articles/cowork-is-now-claude) | 2026-09-16 | 1 skill |
 | [Claude for Small Business launches new workflows, integrations, and training programs](https://claude.com/resources/articles/claude-for-small-business-launches-new-workflows-integrations-and-training-programs) | 2026-09-15 | 1 skill |
 | [Building an AI-native revenue organization](https://claude.com/resources/articles/building-an-ai-native-revenue-organization) | 2026-09-15 | 1 skill + 1 guide |
+| [Deploying AI from pilot to production: a practical blueprint for CIOs and technical leaders](https://claude.com/resources/articles/deploying-ai-from-pilot-to-production) | 2026-09-14 | 1 skill + 1 guide |
 | [Claude for Financial Advisors](https://claude.com/resources/articles/claude-for-financial-advisors) | 2026-09-14 | 1 skill |
 | [Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic](https://claude.com/resources/articles/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic) | 2026-09-14 | 1 skill + 1 guide |
 | [A guide to the anatomy of effective commerce agents](https://claude.com/blog/the-anatomy-of-effective-commerce-agents) | 2026-09-02 | 5 skill + 1 guide |

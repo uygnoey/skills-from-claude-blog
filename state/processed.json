@@ -1323,6 +1323,16 @@
       "blog_slug": "2026.09.16_cowork-is-now-claude",
       "processed_at": "2026-10-22T18:15:07Z",
       "source_date": "2026-09-16"
+    },
+    "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed": {
+      "blog_slug": "2026.10.22_claude-models-on-google-cloud-anthropic-managed",
+      "processed_at": "2026-10-22T22:16:43Z",
+      "source_date": "2026-10-22"
+    },
+    "https://claude.com/resources/articles/deploying-ai-from-pilot-to-production": {
+      "blog_slug": "2026.09.14_deploying-ai-from-pilot-to-production",
+      "processed_at": "2026-10-22T22:16:43Z",
+      "source_date": "2026-09-14"
     }
   }
 }
