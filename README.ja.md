@@ -96,12 +96,14 @@ Claude 公式ブログの記事を、**記事の性格に合わせた Claude Cod
 | [Claude Marketplace: one place to discover plugins, agents, and services from our partners](https://claude.com/resources/articles/claude-marketplace) | 2026-09-23 | 1 skill |
 | [Projects redesigned: from folder to conversation](https://claude.com/resources/articles/projects-redesigned) | 2026-09-17 | 1 skill |
 | [Claude Cowork and chat are now one Claude](https://claude.com/resources/articles/cowork-is-now-claude) | 2026-09-16 | 1 skill |
+| [Bringing Salesforce into Claude](https://claude.com/resources/articles/salesforce-in-claude) | 2026-09-15 | 1 skill |
 | [Claude for Small Business launches new workflows, integrations, and training programs](https://claude.com/resources/articles/claude-for-small-business-launches-new-workflows-integrations-and-training-programs) | 2026-09-15 | 1 skill |
 | [Building an AI-native revenue organization](https://claude.com/resources/articles/building-an-ai-native-revenue-organization) | 2026-09-15 | 1 skill + 1 guide |
 | [How healthcare organizations use Claude Tag](https://claude.com/resources/articles/how-healthcare-organizations-use-claude-tag) | 2026-09-14 | 1 skill |
 | [Deploying AI from pilot to production: a practical blueprint for CIOs and technical leaders](https://claude.com/resources/articles/deploying-ai-from-pilot-to-production) | 2026-09-14 | 1 skill + 1 guide |
 | [Claude for Financial Advisors](https://claude.com/resources/articles/claude-for-financial-advisors) | 2026-09-14 | 1 skill |
 | [Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic](https://claude.com/resources/articles/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic) | 2026-09-14 | 1 skill + 1 guide |
+| [Reducing cost and improving performance with Claude Platform](https://claude.com/resources/articles/reducing-cost-and-improving-performance-with-claude-platform) | 2026-09-08 | 1 skill |
 | [A guide to the anatomy of effective commerce agents](https://claude.com/blog/the-anatomy-of-effective-commerce-agents) | 2026-09-02 | 5 skill + 1 guide |
 | [Building commerce agents with Claude](https://claude.com/blog/claude-for-commerce-agents) | 2026-09-02 | 1 skill + 2 agent |
 | [How Anthropic employees use Claude Tag](https://claude.com/blog/how-anthropic-employees-use-claude-tag) | 2026-08-28 | 1 skill + 1 guide |

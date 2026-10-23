@@ -1353,6 +1353,16 @@
       "blog_slug": "2026.09.17_projects-redesigned",
       "processed_at": "2026-10-23T06:13:57Z",
       "source_date": "2026-09-17"
+    },
+    "https://claude.com/resources/articles/reducing-cost-and-improving-performance-with-claude-platform": {
+      "blog_slug": "2026.09.08_reducing-cost-and-improving-performance-with-claude-platform",
+      "processed_at": "2026-10-23T10:14:34Z",
+      "source_date": "2026-09-08"
+    },
+    "https://claude.com/resources/articles/salesforce-in-claude": {
+      "blog_slug": "2026.09.15_salesforce-in-claude",
+      "processed_at": "2026-10-23T10:14:34Z",
+      "source_date": "2026-09-15"
     }
   }
 }
