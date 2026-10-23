@@ -1378,6 +1378,16 @@
       "blog_slug": "2026.09.17_working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5",
       "processed_at": "2026-10-23T18:13:59Z",
       "source_date": "2026-09-17"
+    },
+    "https://claude.com/resources/articles/unified-claude-enterprise": {
+      "blog_slug": "2026.10.23_unified-claude-enterprise",
+      "processed_at": "2026-10-23T22:15:15Z",
+      "source_date": "2026-10-23"
+    },
+    "https://claude.com/resources/articles/claude-duet-safety-privacy-and-security": {
+      "blog_slug": "2026.10.23_claude-duet-safety-privacy-and-security",
+      "processed_at": "2026-10-23T22:15:15Z",
+      "source_date": "2026-10-23"
     }
   }
 }
