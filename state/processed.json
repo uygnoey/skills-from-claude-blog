@@ -1363,6 +1363,16 @@
       "blog_slug": "2026.09.15_salesforce-in-claude",
       "processed_at": "2026-10-23T10:14:34Z",
       "source_date": "2026-09-15"
+    },
+    "https://claude.com/resources/articles/t-rowe-price-brings-more-of-claude-to-its-investment-process": {
+      "blog_slug": "2026.09.10_t-rowe-price-brings-more-of-claude-to-its-investment-process",
+      "processed_at": "2026-10-23T14:14:20Z",
+      "source_date": "2026-09-10"
+    },
+    "https://claude.com/resources/articles/what-1-000-small-business-owners-taught-us-about-ai": {
+      "blog_slug": "2026.09.10_what-1-000-small-business-owners-taught-us-about-ai",
+      "processed_at": "2026-10-23T14:14:20Z",
+      "source_date": "2026-09-10"
     }
   }
 }

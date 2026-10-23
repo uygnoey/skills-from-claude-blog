@@ -103,6 +103,8 @@ Claude 공식 블로그 글을 **글의 성격에 맞는 Claude Code 공식 규�
 | [Deploying AI from pilot to production: a practical blueprint for CIOs and technical leaders](https://claude.com/resources/articles/deploying-ai-from-pilot-to-production) | 2026-09-14 | 1 skill + 1 guide |
 | [Claude for Financial Advisors](https://claude.com/resources/articles/claude-for-financial-advisors) | 2026-09-14 | 1 skill |
 | [Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic](https://claude.com/resources/articles/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic) | 2026-09-14 | 1 skill + 1 guide |
+| [T. Rowe Price brings more of Claude to its investment process](https://claude.com/resources/articles/t-rowe-price-brings-more-of-claude-to-its-investment-process) | 2026-09-10 | 1 skill |
+| [What 1,000 small business owners taught us about AI](https://claude.com/resources/articles/what-1-000-small-business-owners-taught-us-about-ai) | 2026-09-10 | 1 skill + 1 guide |
 | [Reducing cost and improving performance with Claude Platform](https://claude.com/resources/articles/reducing-cost-and-improving-performance-with-claude-platform) | 2026-09-08 | 1 skill |
 | [A guide to the anatomy of effective commerce agents](https://claude.com/blog/the-anatomy-of-effective-commerce-agents) | 2026-09-02 | 5 skill + 1 guide |
 | [Building commerce agents with Claude](https://claude.com/blog/claude-for-commerce-agents) | 2026-09-02 | 1 skill + 2 agent |
