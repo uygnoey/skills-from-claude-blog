@@ -95,6 +95,7 @@ Each artifact can be copied into a project as-is.
 | [How to prepare for AI-driven code modernization projects](https://claude.com/resources/articles/how-to-prepare-for-ai-driven-code-modernization-projects) | 2026-09-23 | 1 skill + 1 guide |
 | [How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace](https://claude.com/resources/articles/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace) | 2026-09-23 | 1 skill |
 | [Claude Marketplace: one place to discover plugins, agents, and services from our partners](https://claude.com/resources/articles/claude-marketplace) | 2026-09-23 | 1 skill |
+| [Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5](https://claude.com/resources/articles/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5) | 2026-09-17 | 1 skill + 1 guide |
 | [Projects redesigned: from folder to conversation](https://claude.com/resources/articles/projects-redesigned) | 2026-09-17 | 1 skill |
 | [Claude Cowork and chat are now one Claude](https://claude.com/resources/articles/cowork-is-now-claude) | 2026-09-16 | 1 skill |
 | [Bringing Salesforce into Claude](https://claude.com/resources/articles/salesforce-in-claude) | 2026-09-15 | 1 skill |

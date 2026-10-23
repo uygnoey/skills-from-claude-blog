@@ -1373,6 +1373,11 @@
       "blog_slug": "2026.09.10_what-1-000-small-business-owners-taught-us-about-ai",
       "processed_at": "2026-10-23T14:14:20Z",
       "source_date": "2026-09-10"
+    },
+    "https://claude.com/resources/articles/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5": {
+      "blog_slug": "2026.09.17_working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5",
+      "processed_at": "2026-10-23T18:13:59Z",
+      "source_date": "2026-09-17"
     }
   }
 }
