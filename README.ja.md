@@ -84,14 +84,16 @@ Claude 公式ブログの記事を、**記事の性格に合わせた Claude Cod
 | [Claude now works with Google Docs, Sheets, and Slides](https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides) | 2026-10-06 | 1 skill + 1 guide |
 | [How Cresta turned CX expertise into an agent builder on the Claude Agent SDK](https://claude.com/resources/articles/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk) | 2026-10-05 | 1 skill |
 | [Customize Claude Code with mods](https://claude.com/resources/articles/claude-code-mods) | 2026-10-01 | 1 skill |
+| [How Anthropic's sales team rebuilt inbound with Claude Managed Agents](https://claude.com/resources/articles/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents) | 2026-09-30 | 1 skill |
 | [Claude for Government is now generally available](https://claude.com/resources/articles/claude-for-government-is-now-generally-available) | 2026-09-30 | 1 skill |
 | [Agents you can coach: how Asana builds human-agent teams with Claude](https://claude.com/resources/articles/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude) | 2026-09-29 | 1 skill + 1 guide |
 | [Giving companies more control over their AI agents, with NVIDIA](https://claude.com/resources/articles/giving-companies-more-control-over-their-ai-agents-with-nvidia) | 2026-09-28 | 1 skill |
 | [Build plugins for Claude](https://claude.com/resources/articles/build-plugins-for-claude) | 2026-09-25 | 1 skill |
 | [Claude Tag now supports personal connectors in channels](https://claude.com/resources/articles/claude-tag-now-supports-personal-connectors-in-channels) | 2026-09-24 | 1 skill |
 | [Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.](https://claude.com/resources/articles/claude-opus-5-5-built-for-coding-sessions-that-use-more-context) | 2026-09-24 | 1 skill |
-| [Claude Marketplace: one place to discover plugins, agents, and services from our partners](https://claude.com/resources/articles/claude-marketplace) | 2026-09-23 | 1 skill |
 | [How to prepare for AI-driven code modernization projects](https://claude.com/resources/articles/how-to-prepare-for-ai-driven-code-modernization-projects) | 2026-09-23 | 1 skill + 1 guide |
+| [How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace](https://claude.com/resources/articles/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace) | 2026-09-23 | 1 skill |
+| [Claude Marketplace: one place to discover plugins, agents, and services from our partners](https://claude.com/resources/articles/claude-marketplace) | 2026-09-23 | 1 skill |
 | [Claude Cowork and chat are now one Claude](https://claude.com/resources/articles/cowork-is-now-claude) | 2026-09-16 | 1 skill |
 | [Claude for Small Business launches new workflows, integrations, and training programs](https://claude.com/resources/articles/claude-for-small-business-launches-new-workflows-integrations-and-training-programs) | 2026-09-15 | 1 skill |
 | [Building an AI-native revenue organization](https://claude.com/resources/articles/building-an-ai-native-revenue-organization) | 2026-09-15 | 1 skill + 1 guide |

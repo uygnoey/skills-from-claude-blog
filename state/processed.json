@@ -1,7 +1,7 @@
 {
   "description": "Map of processed blog URLs -> { blog_slug, processed_at, source_date }",
   "meta": {
-    "last_run_at": "2026-10-22"
+    "last_run_at": "2026-10-23"
   },
   "entries": {
     "https://claude.com/blog/using-claude-md-files": {
@@ -1333,6 +1333,16 @@
       "blog_slug": "2026.09.14_deploying-ai-from-pilot-to-production",
       "processed_at": "2026-10-22T22:16:43Z",
       "source_date": "2026-09-14"
+    },
+    "https://claude.com/resources/articles/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents": {
+      "blog_slug": "2026.09.30_how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents",
+      "processed_at": "2026-10-23T02:13:59Z",
+      "source_date": "2026-09-30"
+    },
+    "https://claude.com/resources/articles/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace": {
+      "blog_slug": "2026.09.23_how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace",
+      "processed_at": "2026-10-23T02:13:59Z",
+      "source_date": "2026-09-23"
     }
   }
 }
