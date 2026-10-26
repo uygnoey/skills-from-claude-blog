@@ -1388,6 +1388,11 @@
       "blog_slug": "2026.10.23_claude-duet-safety-privacy-and-security",
       "processed_at": "2026-10-23T22:15:15Z",
       "source_date": "2026-10-23"
+    },
+    "https://claude.com/resources/articles/expanding-claude-for-nonprofits": {
+      "blog_slug": "2026.10.26_expanding-claude-for-nonprofits",
+      "processed_at": "2026-10-26T18:13:13Z",
+      "source_date": "2026-10-26"
     }
   }
 }

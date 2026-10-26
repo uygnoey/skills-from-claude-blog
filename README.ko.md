@@ -68,6 +68,7 @@ Claude 공식 블로그 글을 **글의 성격에 맞는 Claude Code 공식 규�
 
 | 블로그 글 | 게시일 | Artifacts |
 |---|---|---|
+| [Expanding Claude for Nonprofits](https://claude.com/resources/articles/expanding-claude-for-nonprofits) | 2026-10-26 | 1 skill |
 | [Claude Cowork and chat come together for Enterprise](https://claude.com/resources/articles/unified-claude-enterprise) | 2026-10-23 | 1 skill |
 | [Claude Duet Safety, Privacy, and Security](https://claude.com/resources/articles/claude-duet-safety-privacy-and-security) | 2026-10-23 | 1 skill + 1 guide |
 | [Claude Platform is now available on Google Cloud](https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed) | 2026-10-22 | 1 skill |
