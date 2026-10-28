@@ -1398,6 +1398,16 @@
       "blog_slug": "2026.10.27_how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud",
       "processed_at": "2026-10-27T22:17:11Z",
       "source_date": "2026-10-27"
+    },
+    "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets": {
+      "blog_slug": "2026.10.28_smart-reports-surveys-pooled-budgets",
+      "processed_at": "2026-10-28T18:15:57Z",
+      "source_date": "2026-10-28"
+    },
+    "https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company": {
+      "blog_slug": "2026.10.28_idc-brings-quanta-into-claude-and-adopts-claude-across-the-company",
+      "processed_at": "2026-10-28T18:15:57Z",
+      "source_date": "2026-10-28"
     }
   }
 }
