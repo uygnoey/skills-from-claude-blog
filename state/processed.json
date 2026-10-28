@@ -1408,6 +1408,11 @@
       "blog_slug": "2026.10.28_idc-brings-quanta-into-claude-and-adopts-claude-across-the-company",
       "processed_at": "2026-10-28T18:15:57Z",
       "source_date": "2026-10-28"
+    },
+    "https://claude.com/resources/articles/introducing-artifacts-for-legal-work": {
+      "blog_slug": "2026.10.28_introducing-artifacts-for-legal-work",
+      "processed_at": "2026-10-28T22:15:16Z",
+      "source_date": "2026-10-28"
     }
   }
 }

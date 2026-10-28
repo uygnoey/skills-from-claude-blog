@@ -68,6 +68,7 @@ Claude 公式ブログの記事を、**記事の性格に合わせた Claude Cod
 
 | ブログ記事 | 公開日 | 成果物 |
 |---|---|---|
+| [Introducing artifacts for legal work](https://claude.com/resources/articles/introducing-artifacts-for-legal-work) | 2026-10-28 | 1 skill |
 | [Smart reports, surveys, and pooled group budgets for Claude Enterprise](https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets) | 2026-10-28 | 1 skill |
 | [IDC brings Quanta into Claude and adopts Claude across the company](https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company) | 2026-10-28 | 1 skill |
 | [Manage costs and demonstrate ROI for Claude Code on Google Cloud](https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud) | 2026-10-27 | 1 skill + 1 guide |
